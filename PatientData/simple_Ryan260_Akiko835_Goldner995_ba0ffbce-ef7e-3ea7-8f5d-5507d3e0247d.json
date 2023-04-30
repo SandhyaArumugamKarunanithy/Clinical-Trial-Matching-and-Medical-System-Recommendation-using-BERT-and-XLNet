@@ -1,0 +1,334 @@
+{
+  "id": "ba0ffbce-ef7e-3ea7-8f5d-5507d3e0247d",
+  "name": {
+    "family": "Goldner995",
+    "given": [
+      "Ryan260",
+      "Akiko835"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "1976-08-15",
+  "conditions": [
+    {
+      "id": "0226c224-7ad8-f327-6dbe-66c8c8cf55b5",
+      "code": "224299000",
+      "display": "Received higher education (finding)"
+    },
+    {
+      "id": "e7f337ac-4fb0-2477-25ca-ddb585a48e62",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "cb16e84c-4360-a4b0-2a41-675fafa02d25",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fdf01cc9-eaba-c29d-ffd4-c668df8ac8cb",
+      "code": "267020005",
+      "display": "History of tubal ligation (situation)"
+    },
+    {
+      "id": "ea60fa4c-44f6-b78e-5980-80d4572744b0",
+      "code": "59621000",
+      "display": "Essential hypertension (disorder)"
+    },
+    {
+      "id": "6236b801-81e5-bf97-dce0-b2812d5966f8",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b604f2f1-6557-653d-b896-a92ce798bed5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4a397e71-cfc9-8a71-b32f-d2688cfc14b8",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "fe9057db-8b7c-72cd-05a2-09cabb0ad46b",
+      "code": "431856006",
+      "display": "Chronic kidney disease stage 2 (disorder)"
+    },
+    {
+      "id": "692a64a3-9fc4-4779-4c48-f2fc81f38bd2",
+      "code": "127013003",
+      "display": "Disorder of kidney due to diabetes mellitus (disorder)"
+    },
+    {
+      "id": "dadf78cf-c38c-6596-6361-4f44c6ffb342",
+      "code": "90781000119102",
+      "display": "Microalbuminuria due to type 2 diabetes mellitus (disorder)"
+    },
+    {
+      "id": "67d3b0e7-895d-5b6e-d070-057dc457b977",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "14e9c903-3690-6958-76f1-13b6f82dd9ad",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "849496e5-21ae-a9fb-dad4-0eb165765018",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "35381920-58ff-e671-d277-a543ecf9bd37",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5d7bcd31-0c05-6c22-de67-c510836af0b3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "05e02f2b-1ee4-a110-b34c-353411c0373f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9765cc7a-29e3-ddaf-f856-06c2a0877249",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3e1116bc-e563-85ad-84ba-884bed8ee68b",
+      "code": "266948004",
+      "display": "Has a criminal record (finding)"
+    },
+    {
+      "id": "da36a071-adb3-af59-c3e7-1e8fbba88c50",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "de6e36d3-505a-4317-4496-8f14f05d94ae",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "21fadfb0-e222-5bab-54fb-d53b3446e011",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "da5edc69-f252-2b44-db11-5fef6a93e730",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "706491b6-8d69-cac0-fa1c-16b864a77357",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6a9c1854-efd2-3ec3-7395-f1c499072f8c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a0ec33c7-e174-6a67-ba2d-be67a3f4ee7e",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "bbbee72e-14e6-8307-bdf4-ab0a6b986722",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d2327f89-b439-9209-21a1-e07f2a5067d2",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "15bd8057-4390-0be6-e4f0-f6d148dd5212",
+      "code": "361055000",
+      "display": "Misuses drugs (finding)"
+    },
+    {
+      "id": "2f3d0dd4-2e19-8199-3abe-3cee0d6afcf8",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d873d5c1-2a23-81e0-72bd-36b04fd79976",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1ffe7dc3-0de0-2849-7b08-e82207c8b17a",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "67a5303e-76da-8167-c671-40839e0486db",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "de1f6639-2ca3-7131-2fbc-2bc8771c6568",
+      "code": "80583007",
+      "display": "Severe anxiety (panic) (finding)"
+    },
+    {
+      "id": "df89d6ae-118c-3668-b478-95b029179976",
+      "code": "433144002",
+      "display": "Chronic kidney disease stage 3 (disorder)"
+    },
+    {
+      "id": "8b070349-9353-827c-5bfb-e080ec9726ec",
+      "code": "157141000119108",
+      "display": "Proteinuria due to type 2 diabetes mellitus (disorder)"
+    },
+    {
+      "id": "cce7603f-3824-693b-7940-3ccaf1932ae8",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d8449206-20b3-d4a9-8c62-01ba896d809a",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "86e56ebe-4acf-4641-535a-ff6c4d440643",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a0f5f52a-3ae8-7cde-2358-2bceee9735d4",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "1849186e-d691-fa11-cd20-6a4de32c7ad5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "668c53c0-5a93-9a34-37d7-baafdccb203a",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f4bda184-2fc7-0522-65db-45320382887a",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "b0be98ad-f2d2-ff15-56dd-73bbe8f82704",
+      "code": "431857002",
+      "display": "Chronic kidney disease stage 4 (disorder)"
+    },
+    {
+      "id": "47fdb64e-6d83-0314-1ac4-563cf3c6fdd9",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "b2898a4c-ff70-4ad7-8778-3ec25af79c1d",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "ceb5519d-75df-4b22-c93b-0babf9ced37c",
+      "code": "361055000",
+      "display": "Misuses drugs (finding)"
+    },
+    {
+      "id": "3552b1bb-3f76-fb90-7514-a0ccb65355bf",
+      "code": "698306007",
+      "display": "Awaiting transplantation of kidney (situation)"
+    },
+    {
+      "id": "72c82f94-62fb-d032-b161-5681ebca9a70",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a60c4f07-0020-389a-fc0e-a3d492b6dadd",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a4b4e46b-fa5c-fba3-4216-79dc919476f5",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "5586808a-eba5-9f75-317c-e88c15c1a599",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "27435770-15b7-ba6f-671f-1d1fb598aadb",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "9be1822e-b030-a0e0-dec3-33b74d950f9e",
+      "code": "161665007",
+      "display": "History of renal transplant (situation)"
+    },
+    {
+      "id": "3262e1a5-efa6-b234-ed29-bb45cfe67674",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "c9b04025-19a0-7cf8-3823-eaf0430f3a74",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ffb283a7-12c7-cab3-5f39-94310b1e263d",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "502b817b-7f36-ed0d-087b-ab67d5a3e405",
+      "code": "36971009",
+      "display": "Sinusitis (disorder)"
+    },
+    {
+      "id": "42dc256e-59e8-a775-7625-76e673c1bee1",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "4632dbd0-cae1-69c1-baca-edba6916696e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "24e87501-78ca-5ec9-65bb-a832c2fa4b18",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "68209f84-d4be-f91d-9eb6-d6ffa4d3c95e",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "f502f6b9-d1fb-bb67-e22f-c77d60c2e30c",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "06e724a3-c9f2-c389-8e2e-1b44c861e73f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    }
+  ]
+}

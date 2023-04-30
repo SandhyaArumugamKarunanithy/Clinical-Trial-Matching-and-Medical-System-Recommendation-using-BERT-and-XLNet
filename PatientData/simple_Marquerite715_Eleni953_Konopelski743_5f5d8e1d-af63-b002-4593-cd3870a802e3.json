@@ -1,0 +1,114 @@
+{
+  "id": "5f5d8e1d-af63-b002-4593-cd3870a802e3",
+  "name": {
+    "family": "Konopelski743",
+    "given": [
+      "Marquerite715",
+      "Eleni953"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "1987-05-06",
+  "conditions": [
+    {
+      "id": "9d859ee0-c9a9-1784-2efb-41dd53978b03",
+      "code": "224299000",
+      "display": "Received higher education (finding)"
+    },
+    {
+      "id": "8ce57e4c-f252-a67e-16bc-29804539c9f6",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5a78cb34-b13c-f888-0a14-c96b620ccb8d",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "62b1cbdb-8318-5b01-fd25-5f99a6416724",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "9ca02e5c-fece-72a4-0468-9234e7a9734a",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "689aaaa1-8cff-958a-9eff-88eb61d28b2c",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "41178022-232a-c666-9c1c-01761ddb7c33",
+      "code": "72892002",
+      "display": "Normal pregnancy"
+    },
+    {
+      "id": "9056960f-93b3-699c-d2a3-cf70b8b2ef4a",
+      "code": "72892002",
+      "display": "Normal pregnancy"
+    },
+    {
+      "id": "42c4fded-fddd-495c-08cc-7e4f789656a9",
+      "code": "271737000",
+      "display": "Anemia (disorder)"
+    },
+    {
+      "id": "52c40a2e-a71a-08ea-a1b9-6a5e97001624",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "b2bccab4-c9e1-f92c-fd9e-347613ecfc49",
+      "code": "72892002",
+      "display": "Normal pregnancy"
+    },
+    {
+      "id": "b946ebf8-4dc2-39c5-8671-50cb65df4b77",
+      "code": "398254007",
+      "display": "Preeclampsia"
+    },
+    {
+      "id": "5bd53c0a-86c6-0b5a-a1be-fcb441f9ddf7",
+      "code": "72892002",
+      "display": "Normal pregnancy"
+    },
+    {
+      "id": "41591d8d-b9de-a6ce-a270-dc57cee5047f",
+      "code": "198992004",
+      "display": "Antepartum eclampsia"
+    },
+    {
+      "id": "bc7705a6-53c6-c4df-691a-1bcf88277bd8",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5c7ea614-74e3-6926-13c0-38a52e2b98f2",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "6d4cd220-9487-c79f-8f15-2302b6c53a1b",
+      "code": "301011002",
+      "display": "Escherichia coli urinary tract infection"
+    },
+    {
+      "id": "ebd8081c-af20-1c7c-d19e-164b002e2bd2",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "19bed6b7-8a7f-8aad-27c3-554ec1eb1c5b",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "b9aec716-8117-9347-f818-b2457f31fb0d",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    }
+  ]
+}

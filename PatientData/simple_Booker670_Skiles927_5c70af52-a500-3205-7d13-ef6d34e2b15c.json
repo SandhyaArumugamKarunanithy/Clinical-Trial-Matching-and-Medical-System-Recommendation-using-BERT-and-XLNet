@@ -1,0 +1,209 @@
+{
+  "id": "5c70af52-a500-3205-7d13-ef6d34e2b15c",
+  "name": {
+    "family": "Skiles927",
+    "given": [
+      "Booker670",
+      "Blake449"
+    ]
+  },
+  "gender": "male",
+  "birthDate": "1956-04-07",
+  "conditions": [
+    {
+      "id": "dc0a00a0-5951-e5fc-a47b-a17c8cb0fb5c",
+      "code": "160968000",
+      "display": "Risk activity involvement (finding)"
+    },
+    {
+      "id": "18b7d044-d05b-94b7-fd33-a87f09a63dea",
+      "code": "160968000",
+      "display": "Risk activity involvement (finding)"
+    },
+    {
+      "id": "d2de2c81-d449-1283-b970-ccbc2289c691",
+      "code": "5251000175109",
+      "display": "Received certificate of high school equivalency (finding)"
+    },
+    {
+      "id": "8d16e1af-c691-ad16-41d5-388d89d2df7a",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1ec47b7c-e8d2-ff7c-a0bb-9c261fcb0ed5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "789bc576-a6be-2cbc-d50b-b72198d196e1",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3f108e36-0500-6063-a161-8024ece871ee",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "8b083b4a-a0b5-4cd2-ddfd-b36910d032b1",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "bd4bdb25-69d5-ac8c-eb7c-53a12868d234",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "76181f7c-3d55-22d9-d720-13f2190e2acd",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ce7e8beb-9be1-0a3d-8ab1-4728c98ccb97",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "5a4c94ca-f7c0-cdd9-07e9-c128cf055790",
+      "code": "40055000",
+      "display": "Chronic sinusitis (disorder)"
+    },
+    {
+      "id": "fe3d80e0-e6fd-166a-2d9c-6267bd360c8d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6217b156-c061-7451-eaef-216b2166fd68",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f24c180d-91e9-e182-5086-f4054d2ae637",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "88bcbc75-4270-f1af-b84e-69c03bad7f55",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "68ffb175-1ec7-4ce7-f3ec-87517dd7f5dd",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fe158a46-c76c-c8b7-9dce-b086271bba41",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "14c414dc-8d58-b750-e824-8f8b521afa5d",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "9491ba7d-c1a1-41c6-1a33-8ea0dac26929",
+      "code": "10939881000119105",
+      "display": "Unhealthy alcohol drinking behavior (finding)"
+    },
+    {
+      "id": "3b7dd56d-2dd1-c119-fc56-078006767806",
+      "code": "58150001",
+      "display": "Fracture of clavicle"
+    },
+    {
+      "id": "ce584f9e-da84-6a67-5a6f-913185fc5c2d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "61e03b59-a9a9-ab6d-7faa-c4b1db03d4e7",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "9141de0b-a45c-7863-cd61-69bed7de7771",
+      "code": "68496003",
+      "display": "Polyp of colon"
+    },
+    {
+      "id": "c3906b91-85ce-6ded-b71e-cafe91272e66",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c0a1ba4f-5d17-4598-353d-3c34c6bc99d8",
+      "code": "10509002",
+      "display": "Acute bronchitis (disorder)"
+    },
+    {
+      "id": "7fbbebc6-e638-38bf-eb9e-ce3291be3eb8",
+      "code": "359817006",
+      "display": "Closed fracture of hip"
+    },
+    {
+      "id": "3b2bece5-2cf0-a078-8776-b6b76438bc46",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4e98333d-f1f4-262e-972f-87351466dd05",
+      "code": "713197008",
+      "display": "Recurrent rectal polyp"
+    },
+    {
+      "id": "7c9c8955-95af-5df5-0cf1-36f8c29a6a81",
+      "code": "271737000",
+      "display": "Anemia (disorder)"
+    },
+    {
+      "id": "f99c6c2c-0867-2784-bf15-4a54679da317",
+      "code": "109838007",
+      "display": "Overlapping malignant neoplasm of colon"
+    },
+    {
+      "id": "793ec7f9-03c9-c4cb-74be-11b4d32b01a2",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "18abfc1f-6084-4c34-05b9-c1f794108367",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "4687c5be-b78c-d66e-7280-446e8051a6a6",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d09934f2-31b7-d18f-ec0e-ea4a92a5926e",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "33b85c4d-a8b7-e0dd-69c7-eacabf1e9f73",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "96bbe474-74eb-0ced-e6b6-d001494a0df2",
+      "code": "75498004",
+      "display": "Acute bacterial sinusitis (disorder)"
+    },
+    {
+      "id": "c441e88f-cdc3-ea66-1b5a-1ce110edcb19",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "841caf03-9a45-875d-2683-2daecbc2cfb7",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    }
+  ]
+}

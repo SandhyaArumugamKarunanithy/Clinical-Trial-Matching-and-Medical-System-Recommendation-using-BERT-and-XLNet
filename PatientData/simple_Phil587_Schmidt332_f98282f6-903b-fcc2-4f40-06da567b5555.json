@@ -1,0 +1,89 @@
+{
+  "id": "f98282f6-903b-fcc2-4f40-06da567b5555",
+  "name": {
+    "family": "Schmidt332",
+    "given": [
+      "Phil587",
+      "Sanford861"
+    ]
+  },
+  "gender": "male",
+  "birthDate": "1996-08-30",
+  "conditions": [
+    {
+      "id": "25341a30-ae02-dd42-c4e2-d21d9499af29",
+      "code": "160968000",
+      "display": "Risk activity involvement (finding)"
+    },
+    {
+      "id": "21eabe0b-fa4c-421f-72e2-2e1ec0d1e7df",
+      "code": "224295006",
+      "display": "Only received primary school education (finding)"
+    },
+    {
+      "id": "24e57586-f56e-9e17-68ac-577dd1371c26",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "925b1461-ea6d-2d26-c4a2-1bc43c778c4e",
+      "code": "266934004",
+      "display": "Transport problem (finding)"
+    },
+    {
+      "id": "a66ea411-47c1-4463-46a8-701bef9b52ab",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "858ef597-3866-a7dd-e54b-27c9184af792",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "f2c3f6a9-4ddf-3b4e-6e33-4bc5f661ef3a",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "95eb0b89-0066-52bf-d9a0-4ad35b9d5117",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    },
+    {
+      "id": "54fe7af3-05c2-70bf-d14e-5244d6ab8433",
+      "code": "75498004",
+      "display": "Acute bacterial sinusitis (disorder)"
+    },
+    {
+      "id": "213e1ad5-06aa-a5f6-8f63-c532a44d6ae4",
+      "code": "40055000",
+      "display": "Chronic sinusitis (disorder)"
+    },
+    {
+      "id": "5ec7028f-f4c3-fa0d-6aec-b4b01991a5ba",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "afadb14b-197a-2a83-bd59-8d8442e19f43",
+      "code": "713458007",
+      "display": "Lack of access to transportation (finding)"
+    },
+    {
+      "id": "9b9d4bf2-aaa0-aa68-5dbd-caacc676da83",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "3610b741-b157-2836-7a0b-51caad3e64c7",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "85d08634-f3ce-1b5a-cd42-da593c1d12bb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    }
+  ]
+}

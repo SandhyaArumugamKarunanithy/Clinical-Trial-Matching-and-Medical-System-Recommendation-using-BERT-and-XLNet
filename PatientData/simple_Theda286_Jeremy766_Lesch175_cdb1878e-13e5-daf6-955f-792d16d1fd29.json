@@ -1,0 +1,204 @@
+{
+  "id": "cdb1878e-13e5-daf6-955f-792d16d1fd29",
+  "name": {
+    "family": "Lesch175",
+    "given": [
+      "Theda286",
+      "Jeremy766"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "1912-07-03",
+  "conditions": [
+    {
+      "id": "cde9f819-6797-0d35-ce3e-eca8c4293e8d",
+      "code": "5251000175109",
+      "display": "Received certificate of high school equivalency (finding)"
+    },
+    {
+      "id": "7d0c5889-1be0-f93c-0a4c-b71dbe58d4d9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "065cbcd6-b1ff-6a5e-e2b8-70d1f8a5511e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d74bc9ca-483b-5110-2241-9cd2d5b4ee70",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "65f7c821-a178-73b7-f222-b374d6992ea1",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "0a1ab79e-2742-9178-14e6-536511f0b9e9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a21b515d-d01c-f153-b220-c96f384b8ab6",
+      "code": "40055000",
+      "display": "Chronic sinusitis (disorder)"
+    },
+    {
+      "id": "a0e19004-9168-b977-5fd0-ce3e8379d0aa",
+      "code": "15777000",
+      "display": "Prediabetes"
+    },
+    {
+      "id": "b83a6845-f124-507e-0acf-937427e6bedd",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "cd07b07a-254e-f832-49d7-f7a30281a52b",
+      "code": "19169002",
+      "display": "Miscarriage in first trimester"
+    },
+    {
+      "id": "6784ebb6-2f9e-ff03-4876-a8eaf2ef9b3b",
+      "code": "271737000",
+      "display": "Anemia (disorder)"
+    },
+    {
+      "id": "eb6cc1d1-0246-159c-c478-105203767188",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c6f3a588-f96e-2854-3804-19effd81bbf3",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "83c76d14-de4d-bd70-750a-daf4c53e88cf",
+      "code": "267020005",
+      "display": "History of tubal ligation (situation)"
+    },
+    {
+      "id": "7f3d1b96-677a-a34f-d2a5-15c460dec340",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6db9adb7-7ea4-7c7c-814b-5188c4a34f9e",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "5ca812de-df4d-b7a8-b542-5123d70e4325",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b7067ec4-d8f0-038a-f323-2678d9c3a16c",
+      "code": "10939881000119105",
+      "display": "Unhealthy alcohol drinking behavior (finding)"
+    },
+    {
+      "id": "3d962156-7df7-d527-a6c2-6096d62dc274",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e5cfa049-0818-02d9-524f-430fbc0f1262",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "32d9fb79-12b2-758a-8e61-707afa161409",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "130a2b7b-91e1-4262-58dd-85cb2265bb48",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "7e5d3d6b-dd2c-1b86-cee4-ddcfdb851f5a",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "c118eefb-9830-e948-2e50-9a4b5f35d994",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "db6ff038-e27a-a89e-2b40-cc24ee8e29d6",
+      "code": "10509002",
+      "display": "Acute bronchitis (disorder)"
+    },
+    {
+      "id": "a575adac-582b-ccec-58d3-f6b638a16e51",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "5b62ab1b-4337-71dc-7b45-f47b0c192419",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e9256653-ae5c-c3a4-1103-83c6bc5fda86",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "2a360f6b-d5f6-dab3-d3f4-52301f739025",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "a65d9fca-4a29-3820-0181-b925e33eecdb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "56fc56ed-e239-9370-729a-ffca9d328f84",
+      "code": "6072007",
+      "display": "Bleeding from anus"
+    },
+    {
+      "id": "b830cdd4-3c79-081d-55e0-43aa653de30e",
+      "code": "236077008",
+      "display": "Protracted diarrhea"
+    },
+    {
+      "id": "7329c4d7-c7b9-4725-45e0-484b4e83cd08",
+      "code": "363406005",
+      "display": "Malignant tumor of colon"
+    },
+    {
+      "id": "eae70528-e5d1-cf4e-96f1-0500f8762ea6",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "77812ec5-c0a8-8920-59b2-0f81a557b9b5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "10b593db-dc8d-0913-f829-0eb67a3bc0e0",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "c36edbb6-ce56-e4d7-a538-cd4ee5c7ddbd",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "cf7b799f-143b-8981-6553-b6d5960f60f5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    }
+  ]
+}

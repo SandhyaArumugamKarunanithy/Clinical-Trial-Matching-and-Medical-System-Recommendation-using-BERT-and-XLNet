@@ -1,0 +1,224 @@
+{
+  "id": "ade7d025-0bed-2f42-1d73-bd0031fe0d77",
+  "name": {
+    "family": "Weimann465",
+    "given": [
+      "Minh326",
+      "Gerry91"
+    ]
+  },
+  "gender": "male",
+  "birthDate": "1971-02-28",
+  "conditions": [
+    {
+      "id": "c2bc8c76-21bc-2c3c-6766-f80ba1928fdc",
+      "code": "160968000",
+      "display": "Risk activity involvement (finding)"
+    },
+    {
+      "id": "e4f1a2d9-424f-b3fe-8e2b-68ebede84078",
+      "code": "160968000",
+      "display": "Risk activity involvement (finding)"
+    },
+    {
+      "id": "24c12b0d-f4e3-ed01-362f-d2bc1c9e5624",
+      "code": "15777000",
+      "display": "Prediabetes"
+    },
+    {
+      "id": "daeb14d2-34d3-46b9-7684-c5d21694e795",
+      "code": "5251000175109",
+      "display": "Received certificate of high school equivalency (finding)"
+    },
+    {
+      "id": "49a028f9-8058-11f7-5c85-5f4c88c82f74",
+      "code": "271737000",
+      "display": "Anemia (disorder)"
+    },
+    {
+      "id": "70d2c6f8-e43f-ddf7-72b5-e084a194c437",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "1b118ff6-d10e-c3f0-dd34-31f941e0a7ae",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "931d4b48-555a-11aa-17a6-a3c1c8b64957",
+      "code": "59621000",
+      "display": "Essential hypertension (disorder)"
+    },
+    {
+      "id": "ada60952-e998-1d5e-588c-8e8157927d38",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "5ecd11f8-8955-dba2-9273-d5ca6f7868f8",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "f26a04f2-6b6d-1f25-5777-88827896753c",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "ba37d17d-e424-c0d9-83f2-ea840e59e2df",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "56cdd06a-d58b-69f4-77c3-260209a74f57",
+      "code": "201834006",
+      "display": "Localized, primary osteoarthritis of the hand"
+    },
+    {
+      "id": "61e31e06-e4b1-24b1-a458-bdce710a406f",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "a1e84a42-06f5-7346-d031-c984576a71c4",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "75fe1f11-33f7-c6b3-6de5-1b98c7c04579",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "72fac384-36c9-44f2-359a-3729ad8b4fd0",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "9e326ad0-f5df-c181-ff24-387eac3d6f93",
+      "code": "237602007",
+      "display": "Metabolic syndrome X (disorder)"
+    },
+    {
+      "id": "357b0ded-936b-2a42-bd95-65beb9e21d3a",
+      "code": "278860009",
+      "display": "Chronic low back pain (finding)"
+    },
+    {
+      "id": "c9473e43-af78-8407-31b1-9a04da22d09e",
+      "code": "1121000119107",
+      "display": "Chronic neck pain (finding)"
+    },
+    {
+      "id": "122755a2-4ff0-d8fd-15cc-90d044db7bd9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a49973ac-7548-080f-87b9-2e7beeaab43a",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "f71a6ddf-3b62-169b-41e3-c769475888ac",
+      "code": "361055000",
+      "display": "Misuses drugs (finding)"
+    },
+    {
+      "id": "c38064a1-4fb0-5b13-a750-696b626c6835",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "cf26b4da-4618-33c6-de68-d844bbb9d72a",
+      "code": "414545008",
+      "display": "Ischemic heart disease (disorder)"
+    },
+    {
+      "id": "bb11f516-af23-686b-288e-d6bf999a410c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9fa4d1ee-29b1-7dd1-91b2-e00d2e8f52aa",
+      "code": "274531002",
+      "display": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)"
+    },
+    {
+      "id": "218eaf63-8e45-58bd-2cdd-851e246db405",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    },
+    {
+      "id": "bce65b2d-8109-454e-4355-a3296ef896b5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "22477a97-896f-2491-5f8f-625af9d3a352",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "69ffad42-12d6-931b-b16b-1ce7f994235a",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    },
+    {
+      "id": "16e9a35e-fd0d-587b-7303-3e075d322be7",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "dded5b5c-29e9-469d-dbce-e2588a6a4638",
+      "code": "44054006",
+      "display": "Diabetes mellitus type 2 (disorder)"
+    },
+    {
+      "id": "9216b053-594b-a8d9-28bb-3144153b3555",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "65bebdc4-b69a-6c85-c1f2-76b5236d7bf5",
+      "code": "80394007",
+      "display": "Hyperglycemia (disorder)"
+    },
+    {
+      "id": "e57abb44-c764-b154-c25e-cc15d05e9e3c",
+      "code": "302870006",
+      "display": "Hypertriglyceridemia (disorder)"
+    },
+    {
+      "id": "430e9261-297b-aaf2-e953-d357827e84cf",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a3d81b9a-933f-f00c-e366-e628701e7867",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "29dc5fb0-b980-4a6a-914e-ac3eb07120c5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "0215d02c-e620-ed32-65a3-01bb38abd67d",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "394172b4-3b9a-8ad3-c609-e39c58207912",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "ad33ed05-a291-af1b-9d80-f74fe30655f0",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "id": "74fd78ae-425e-5d3f-1ad1-5a22c44b0cc6",
+  "name": {
+    "family": "Russel238",
+    "given": [
+      "Alexandria361",
+      "Alexis664"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "1959-03-16",
+  "conditions": [
+    {
+      "id": "b08c6d0a-4163-fe76-d2da-066fad043e1e",
+      "code": "224299000",
+      "display": "Received higher education (finding)"
+    },
+    {
+      "id": "b2877610-4a66-8886-158a-4a0904cf4687",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "83eb80b6-949c-1a8f-6bb7-a05efd2b04be",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "c7bb31ef-9130-6a77-8565-7616463eca9b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "157fad15-333a-a530-6308-83ec3ac8f91f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8d25ff25-b30d-d031-c740-bfa8f67579db",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "99875473-b693-50ea-0f6e-4a6e0b843a7c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6a4290e9-27c1-dbed-124d-9f1049ca8243",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6b5ff78a-dc84-4bd8-4bd0-301fa6741ffa",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "35607dd9-eb0c-83ef-d46e-d13c6eac13e7",
+      "code": "19169002",
+      "display": "Miscarriage in first trimester"
+    },
+    {
+      "id": "8e440c12-bb94-efd8-d9ee-abc6daa86f4d",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "14fc5cf5-aa23-05ca-336d-1452623fc564",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f1da51a8-32a1-4427-aa7f-ab2d8d27a0ce",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "ad130399-45d7-fe53-5555-7d77a7690daf",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f04709d4-c357-ad44-07aa-3ff030dc5041",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "56c5429e-975b-ee0d-26b9-9b7ab1345477",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "dd969114-3a70-be6a-05ae-bdb1d4bfb323",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "3adce61b-9b28-4a0e-f570-17b78b4847ee",
+      "code": "39898005",
+      "display": "Sleep disorder (disorder)"
+    },
+    {
+      "id": "b9a3e992-7a4d-19c2-f1c2-17e7f56144ab",
+      "code": "73430006",
+      "display": "Sleep apnea (disorder)"
+    },
+    {
+      "id": "b4d5180b-dc53-2ddf-9463-5516dfdc3b03",
+      "code": "59621000",
+      "display": "Essential hypertension (disorder)"
+    },
+    {
+      "id": "fdd5fedf-498a-3ad0-09cf-a494e40953d5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "84e9a7f2-0877-7959-9828-d6b527e69238",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "3f90f6d4-1020-5a0d-c2db-3e1464d93a1d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4aae3364-57fc-ef4c-f782-e208ab80db05",
+      "code": "55822004",
+      "display": "Hyperlipidemia"
+    },
+    {
+      "id": "cd043477-41f8-bbb3-7e63-f5958b46155b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f164b7ab-42d3-2898-27cd-d6d6154528bc",
+      "code": "40055000",
+      "display": "Chronic sinusitis (disorder)"
+    },
+    {
+      "id": "243c02aa-5191-537f-5c8e-d73a77f196be",
+      "code": "10939881000119105",
+      "display": "Unhealthy alcohol drinking behavior (finding)"
+    },
+    {
+      "id": "8292ff91-9b14-0c65-0835-2e4638e3bc56",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c95f5645-1d51-4399-3d59-7ebada1cc049",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "956c91b8-a036-f7eb-a446-86a685eba586",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d654f943-bc13-9a96-216b-b711cb95345c",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "52b508fd-bb3c-c722-6252-afc922bba37c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fa0e19a3-6699-af71-ea58-0866dc8f1454",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5735fc5d-360b-f316-5e44-7b435d103110",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "d45085b7-0925-f78c-4f36-30d0ec2ea4d0",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "50842970-4377-3a7c-4feb-768f4d732bb3",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "303df9b0-88df-6d89-aa08-75b934895214",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "4dff4a22-be68-a610-2e20-37581820f9c7",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "427305fc-0faa-bf1e-8dda-532752dded17",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "250db546-f902-dd2b-8d69-d3cb053a8183",
+      "code": "80583007",
+      "display": "Severe anxiety (panic) (finding)"
+    },
+    {
+      "id": "11e2e6aa-53ac-53da-3ff5-622dbb777e36",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "39de58ab-84af-a1fe-e49c-eefa98d4db68",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "289898f7-1913-4444-936a-4cdf44f0f250",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9808ec8e-58ac-6701-509e-540f8da706ad",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "37aa9b7b-00a2-ac8a-41ae-f81d49c0c0ce",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "06d89f01-76dc-0506-fb41-031c2f39e778",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "e7763f42-07f2-4d31-1113-bc174477084b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "bf3baf05-4dca-a64f-065f-88862b6e96ff",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "d9cf0517-cb16-1143-6995-8d37bc767696",
+      "code": "69896004",
+      "display": "Rheumatoid arthritis"
+    },
+    {
+      "id": "11628dab-94b8-aa2c-9861-0e7800c22b4f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "bf3e4cb5-df53-77ab-4247-492fe713c520",
+      "code": "10509002",
+      "display": "Acute bronchitis (disorder)"
+    },
+    {
+      "id": "a104fd96-b5c2-1291-d6e6-0934b23f4b55",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "869dc3cc-f381-235f-9fb3-9884d57aaf23",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "eaec8098-01ec-ee00-6c6c-14647da4f404",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b344f468-ae1a-7609-eea9-c976fa9f1a2b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ec389e7a-5d8f-2ce0-3581-4bf4f750425c",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ed8bfa95-bf10-dfcf-a01f-75ca78cf9474",
+  "name": {
+    "family": "Lesch175",
+    "given": [
+      "Samara159",
+      "Berneice173"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "2022-01-15",
+  "conditions": [
+    {
+      "id": "f650b4a3-1bad-02e5-9a8b-8a85b9eef7f1",
+      "code": "65363002",
+      "display": "Otitis media"
+    }
+  ]
+}

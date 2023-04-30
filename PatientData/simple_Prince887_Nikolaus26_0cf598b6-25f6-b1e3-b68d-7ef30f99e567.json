@@ -1,0 +1,39 @@
+{
+  "id": "0cf598b6-25f6-b1e3-b68d-7ef30f99e567",
+  "name": {
+    "family": "Nikolaus26",
+    "given": [
+      "Prince887",
+      "Alan320"
+    ]
+  },
+  "gender": "male",
+  "birthDate": "2007-03-07",
+  "conditions": [
+    {
+      "id": "e4121c10-c1de-675c-4d42-5f5243a6db2e",
+      "code": "128613002",
+      "display": "Seizure disorder"
+    },
+    {
+      "id": "97805c43-8d60-c563-b962-564d385ddf23",
+      "code": "703151001",
+      "display": "History of single seizure (situation)"
+    },
+    {
+      "id": "baf4d376-e462-c9b8-b7fd-7a306b27a020",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "0915f281-a4a6-5793-c7a7-4283e2d49141",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "6a2c568d-d79a-f14d-214a-dce1537f2621",
+      "code": "43878008",
+      "display": "Streptococcal sore throat (disorder)"
+    }
+  ]
+}

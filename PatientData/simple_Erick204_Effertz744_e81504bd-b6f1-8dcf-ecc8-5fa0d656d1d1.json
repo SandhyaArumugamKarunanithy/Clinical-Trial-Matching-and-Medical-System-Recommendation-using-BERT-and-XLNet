@@ -1,0 +1,644 @@
+{
+  "id": "e81504bd-b6f1-8dcf-ecc8-5fa0d656d1d1",
+  "name": {
+    "family": "Effertz744",
+    "given": [
+      "Erick204",
+      "Alva958"
+    ]
+  },
+  "gender": "male",
+  "birthDate": "1948-04-23",
+  "conditions": [
+    {
+      "id": "c610f75a-9b62-af2f-e5de-0aed5c2fcda1",
+      "code": "224355006",
+      "display": "Served in armed forces (finding)"
+    },
+    {
+      "id": "6d6774f1-01ff-f0de-aea6-428becf40e04",
+      "code": "224299000",
+      "display": "Received higher education (finding)"
+    },
+    {
+      "id": "777f3168-c2d3-6d47-7b82-16052d476dfc",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ef4983b4-892f-b2e8-f63e-cae8369a075a",
+      "code": "15777000",
+      "display": "Prediabetes"
+    },
+    {
+      "id": "f32a23f7-a002-f15a-3151-4346d752a65d",
+      "code": "271737000",
+      "display": "Anemia (disorder)"
+    },
+    {
+      "id": "b3c23ff3-d2d7-9614-4510-e28d8c1f9059",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8c00dd6b-bf25-72d7-7400-2f0b8d50e4c5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "078f7753-5e22-f536-a831-75530dba64cd",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "6546f1e5-dbf3-7004-bcec-a7523b46cbd4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c2ca28b2-c473-e95f-86a0-162d2ba252a8",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "50121d8d-563d-1415-632e-0e4259120970",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "60f55cf7-6aed-501f-8462-c80b4f918a46",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "3a1c1495-ffdf-b174-25d2-e5529e3377e7",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "23462912-ebe6-ffd5-b828-d4a4fbdaee75",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "ae29a511-9097-383f-613b-3b353d4ca691",
+      "code": "59621000",
+      "display": "Essential hypertension (disorder)"
+    },
+    {
+      "id": "5f79bf58-8260-5567-5943-3916c2512404",
+      "code": "431856006",
+      "display": "Chronic kidney disease stage 2 (disorder)"
+    },
+    {
+      "id": "aa42b212-765c-a11b-5780-6cebd15521c7",
+      "code": "127013003",
+      "display": "Disorder of kidney due to diabetes mellitus (disorder)"
+    },
+    {
+      "id": "4e0b2ab1-63c2-5281-4d92-eda286051a5d",
+      "code": "90781000119102",
+      "display": "Microalbuminuria due to type 2 diabetes mellitus (disorder)"
+    },
+    {
+      "id": "a7ffd506-f2de-df00-45be-119de932bb6f",
+      "code": "44054006",
+      "display": "Diabetes mellitus type 2 (disorder)"
+    },
+    {
+      "id": "62a8da91-ff16-9a73-47d7-19df7b0fb122",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "fe0cff59-dd03-ae8c-2acb-7585143c7532",
+      "code": "302870006",
+      "display": "Hypertriglyceridemia (disorder)"
+    },
+    {
+      "id": "566a5883-cb2b-68b8-21f1-44386d0493e0",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b4b295e6-455e-b0bb-77e4-a7a9ab022c0a",
+      "code": "237602007",
+      "display": "Metabolic syndrome X (disorder)"
+    },
+    {
+      "id": "d886ca3a-12bd-4e12-55a9-4dc79b4be297",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e8a3a9b7-5b99-52b6-9de7-e01ae0813d85",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5afab483-466d-91d1-81fb-696729eaf128",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "4a069e9f-65b2-7d2d-cb77-71580a018386",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "90789a61-41f5-4508-b430-ab6e07dd94e4",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "a786ed65-b826-e593-1eea-64306cb00038",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "0712f818-f587-a9be-29a1-daf3b799b72b",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "254784e2-2b51-6414-f288-a5e71d31bbed",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "82986abd-15cb-a344-1878-3481bb83a010",
+      "code": "433144002",
+      "display": "Chronic kidney disease stage 3 (disorder)"
+    },
+    {
+      "id": "0982be23-01a2-f3f8-d19d-933fab43940b",
+      "code": "157141000119108",
+      "display": "Proteinuria due to type 2 diabetes mellitus (disorder)"
+    },
+    {
+      "id": "bd97a6cb-322f-9b92-fcd5-3fdaa9fabd5c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "7491c4d1-123e-7dbb-5a46-fb73fedc2665",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "400a8158-dff7-a7ba-4d50-b0224aedd200",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "19afa462-f532-0e9b-8952-3d83a81d55e2",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "820a371f-4247-4704-dcc0-c0574864e45e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f904ca6d-917b-747c-4513-1719d7e0212a",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "cdd3a046-051d-0f38-4467-e95e4b5c45b6",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "772b73ab-c2e6-f83b-d6af-f9d5ce832c32",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d4d7b67e-cb1e-0d3d-8df1-2b12c19c898a",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "dc77fbf4-7314-95c3-4385-4252c69355fc",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "dd44fe97-26c3-6079-1d75-5538da09f7a6",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ac1f058f-1e3f-c7bc-673c-69591126dacb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f9ed4015-be0c-1211-e6c3-a54708606aa3",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "571ee86b-7f0f-f108-0430-9e77560f5de4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "18f63559-be10-3ed7-edbc-fd89b9def583",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "16f7a5b6-00bb-0c64-23d9-f5e93793f5be",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8c3c164c-9c19-441b-83f4-ace888d750c3",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "1b87f834-7118-1880-1870-11818aa1ec20",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "de8f560e-1051-6822-9df7-c14013ac24fb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d7719c4c-f398-4b0a-2c8b-1cc960349fdc",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "df866383-7a74-efde-2ada-88cf49a8ba6e",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "96ea67d4-721d-35fd-6288-b200ca5847cd",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "32932b3f-b9af-c513-a3a9-1f03677a410f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "18bcfea1-9cc7-4a36-c5d7-8489f5934b90",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "7ca435f0-b31f-706f-530d-25d1f8e693d5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e4ffdc7a-ee6a-bb55-a460-0abf9acbc469",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "7f387542-b885-f134-81c8-85d6c3ee4983",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "e32cc967-2420-4698-49b0-e0f3f22c2025",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f17cf2a6-0297-fbb4-f967-49e2fc0d9c09",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "9930997c-18a9-52ab-eb2b-08fc66e979bf",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "d8f7a84c-5bb1-c396-c411-2d429157e463",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "8fe4bb47-7c79-cfd9-a65d-263c46f57419",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "52d2269c-1fee-839a-2bf7-397949b53fb3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e603ff82-039e-b97f-a32c-f79d6e7a8d8b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "14061c7c-82b4-6da3-9d0a-863843d64100",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "03eb5c70-491c-f276-3a8c-8a8e8d9c2ac2",
+      "code": "10509002",
+      "display": "Acute bronchitis (disorder)"
+    },
+    {
+      "id": "122e10e0-746b-d879-abbb-ca04936bb606",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3086a728-367d-5233-f562-f95930b36619",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "db8996f6-dd0e-09a6-9d87-60e0b4f2fe13",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "99f13afa-5421-5975-3ae8-e55b98b8a20d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "0b88b8c0-3731-6901-6f3c-0e6cb8e4629b",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "7320d05c-ba66-72c1-03e6-e930093674e3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c6f9c1db-6785-fda7-52c6-a4566f899c96",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "11054230-629b-d0f1-247c-d6f4533e9c09",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "ecacd654-8700-fb73-0b3a-b6d8eabf8802",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "dea289a4-b401-13c8-dc3e-de1a79225847",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "03f499f1-355d-2945-aa7b-e463fac08b00",
+      "code": "33737001",
+      "display": "Fracture of rib"
+    },
+    {
+      "id": "4c67688e-6488-cdf5-811c-0c3a24efc0f9",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "5d1b764c-d895-0f5b-3d91-e15caa00042f",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "fb4d2566-0add-0082-f6f3-e6badcbdeb45",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "c597c9b7-ce34-8cda-942e-77b2df287bdb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a7ae83d0-e8fa-4c12-ee25-4068789bd878",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "14952b38-a014-6e0f-1b65-a3958ff7e579",
+      "code": "83664006",
+      "display": "Idiopathic atrophic hypothyroidism"
+    },
+    {
+      "id": "f415efcf-d763-8f2c-dbe2-f732a4ffb915",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e14a4613-ea83-daeb-ee8f-e6fc5941ab36",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c9ba05b3-3d42-ea96-b752-5326c29cb863",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "96edc7cd-78af-1638-2d31-2070190c8a60",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "a1786975-1ba4-a513-8058-18888874ef5c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "bc1320d5-6a88-825c-adbf-0db1723ac0d5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "81cae2cd-b402-1f08-10d7-257b95c78a94",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "846f307b-a0b9-d655-f610-7d748c07ff5b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b9a4f001-921e-3ef3-0a22-4bbe6062c0ba",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "64af71a8-6aa4-b871-367c-331779d0304b",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "750d0117-16cb-9183-a8d9-aa951c2fd083",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e27888b7-42b1-0128-adc5-88ff70b16f99",
+      "code": "74400008",
+      "display": "Appendicitis"
+    },
+    {
+      "id": "f083c5ff-080b-e8af-b39f-27f51eabc94e",
+      "code": "428251008",
+      "display": "History of appendectomy"
+    },
+    {
+      "id": "d77e12a6-6c9f-2d21-d500-2c15f4015cd4",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "e95fc29b-c5ba-6e1c-a52b-61e023210a23",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "f62c5a77-64ac-5ff8-14ed-4611938b6e89",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "1480fb8f-f043-0ade-a749-4105003cabfe",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "b47bbcec-6096-5db0-681e-2c54a64c05f5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1317676a-9580-bf84-002d-842b762922d9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fe221b52-7c2c-4934-d78f-b46b75a655cc",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "8d53dbfa-49e3-8f8d-c776-c7b7027cd48a",
+      "code": "68496003",
+      "display": "Polyp of colon"
+    },
+    {
+      "id": "84142eef-eff9-f029-9443-e7cae1fcdda1",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "0908399d-bf3f-0055-ebcd-61a5f5085656",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "c3dd7a49-4140-1e92-00f8-77a690447f03",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "562cdf54-ce3d-52e2-b0d5-b8932e4e5522",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fbe29bfa-efca-e04b-8d33-8b009b044557",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "dcea2623-fd0a-0f09-09e9-83a350ae7ced",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8572bdb7-8cd9-0d1d-ad67-33e9bca20124",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "6707de3d-fa78-3221-c5e4-047b3d982e0f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c0a604b5-c208-e395-90a1-3116b1a6f9a5",
+      "code": "62106007",
+      "display": "Concussion with no loss of consciousness"
+    },
+    {
+      "id": "d7f2063d-ecd8-afd3-c8e4-f139b3e93fc9",
+      "code": "431857002",
+      "display": "Chronic kidney disease stage 4 (disorder)"
+    },
+    {
+      "id": "b3c572e0-8b90-d1ca-c75b-5bb872efa184",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "73cbc665-c1e3-b3af-8e9b-4b7980388945",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "a7b6b284-34f4-be8c-f0e1-1e26f704ca6d",
+      "code": "698306007",
+      "display": "Awaiting transplantation of kidney (situation)"
+    },
+    {
+      "id": "5688d1fe-9910-0f89-6cf2-16746129673c",
+      "code": "414545008",
+      "display": "Ischemic heart disease (disorder)"
+    },
+    {
+      "id": "351f01e9-1d65-4655-1e79-e8ec555a3dba",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "57958dcf-a304-ab9b-c484-496ef0c6aa4b",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "92dc850c-f892-fa58-f878-5663867d3210",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "f383d15b-9c76-5413-7490-16fea3a9eda7",
+      "code": "274531002",
+      "display": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)"
+    },
+    {
+      "id": "c802a9e7-bf4a-06a9-1db5-78bf69a766be",
+      "code": "399261000",
+      "display": "History of coronary artery bypass grafting (situation)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "03460dc3-4082-09df-c18c-a8047337b3b7",
+  "name": {
+    "family": "Rice937",
+    "given": [
+      "Vicenta966"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "2005-08-27",
+  "conditions": [
+    {
+      "id": "6778cd2a-0331-89d7-35df-093c4e835ecc",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "3e0158f5-8596-e928-c4e2-fe49708da849",
+      "code": "58150001",
+      "display": "Fracture of clavicle"
+    },
+    {
+      "id": "17e5c3af-acdc-118d-a637-e2ca6f2cf9f1",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "c2260766-80cc-a2e9-1c0a-3fc867162fe1",
+      "code": "160968000",
+      "display": "Risk activity involvement (finding)"
+    }
+  ]
+}

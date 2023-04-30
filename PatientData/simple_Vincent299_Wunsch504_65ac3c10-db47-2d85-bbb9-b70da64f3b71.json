@@ -1,0 +1,39 @@
+{
+  "id": "65ac3c10-db47-2d85-bbb9-b70da64f3b71",
+  "name": {
+    "family": "Wunsch504",
+    "given": [
+      "Vincent299",
+      "Waylon572"
+    ]
+  },
+  "gender": "male",
+  "birthDate": "1997-01-05",
+  "conditions": [
+    {
+      "id": "dc1f05dd-2889-d218-2d18-cdd94b63439c",
+      "code": "128613002",
+      "display": "Seizure disorder"
+    },
+    {
+      "id": "6c976874-5505-949c-fe06-a8796d5332d7",
+      "code": "703151001",
+      "display": "History of single seizure (situation)"
+    },
+    {
+      "id": "4916b86c-2fd2-369e-b49b-011e26cdc341",
+      "code": "84757009",
+      "display": "Epilepsy"
+    },
+    {
+      "id": "ea409375-dbe5-563f-dd60-29ff5da3d95c",
+      "code": "65363002",
+      "display": "Otitis media"
+    },
+    {
+      "id": "112a748a-5529-350f-b9e0-228715cf4a59",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    }
+  ]
+}

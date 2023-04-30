@@ -1,0 +1,339 @@
+{
+  "id": "983d472f-20f7-27fe-e4ac-65f325334a57",
+  "name": {
+    "family": "Cervantes583",
+    "given": [
+      "Cristina921",
+      "Cecilia788"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "1958-01-11",
+  "conditions": [
+    {
+      "id": "f0dc1e6d-7b0e-92e3-52f4-9341798001f8",
+      "code": "160968000",
+      "display": "Risk activity involvement (finding)"
+    },
+    {
+      "id": "27e2219d-1bad-554c-d27d-8e9b5aab4edd",
+      "code": "224299000",
+      "display": "Received higher education (finding)"
+    },
+    {
+      "id": "94598b79-de88-454a-0d9c-5bcbb1c9b124",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6c428f97-ee70-a943-cb1f-9298710c776c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b13055ab-f0aa-796d-7dd1-f63a1983768e",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "0c0f52a9-8a5f-9cc1-69fa-ea49b928938f",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "d580a589-6eaa-d4c8-93e7-d2d2ccabcb0e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e4cb2ead-10dd-6f94-3056-deb94a4f4458",
+      "code": "19169002",
+      "display": "Miscarriage in first trimester"
+    },
+    {
+      "id": "ab965fd5-cfc0-e520-576a-befbf7b60c92",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "105e73ec-272c-9a03-8f9a-1d7105c099c2",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "3b358439-af4d-f35d-d5f0-de240f2b7402",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "56e518d5-2361-93b3-b19a-60fcd5137ce4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "47e5e708-3766-3de0-d618-e32f7e083958",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ce0c1dd0-06cc-9d7e-0f72-46d785445030",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1a3fff94-94e4-d07f-10a9-c01a946ffcac",
+      "code": "446654005",
+      "display": "Refugee (person)"
+    },
+    {
+      "id": "2c09473c-c37f-53ac-c943-b89aaca8f5c6",
+      "code": "44054006",
+      "display": "Diabetes mellitus type 2 (disorder)"
+    },
+    {
+      "id": "6d1e78d3-7dfc-9028-3630-52a352fbcf83",
+      "code": "271737000",
+      "display": "Anemia (disorder)"
+    },
+    {
+      "id": "2894fb8f-361c-3e84-cb73-84a07db116fc",
+      "code": "59621000",
+      "display": "Essential hypertension (disorder)"
+    },
+    {
+      "id": "a812f2da-2f3d-ea51-cfa1-2d8e70174985",
+      "code": "80394007",
+      "display": "Hyperglycemia (disorder)"
+    },
+    {
+      "id": "d0f9f531-6613-7106-d6fc-af6fc749dcf3",
+      "code": "302870006",
+      "display": "Hypertriglyceridemia (disorder)"
+    },
+    {
+      "id": "2215c78e-7ba5-e1e3-5ed2-4f7df8deca8f",
+      "code": "237602007",
+      "display": "Metabolic syndrome X (disorder)"
+    },
+    {
+      "id": "6058ead5-edd5-0963-4fde-48a90858f02f",
+      "code": "414545008",
+      "display": "Ischemic heart disease (disorder)"
+    },
+    {
+      "id": "6ff8ba7a-2e03-8e12-f964-906dd129f3a9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "718e5056-1244-a7bf-14f3-8744a835ee2e",
+      "code": "274531002",
+      "display": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)"
+    },
+    {
+      "id": "a7ab1002-508f-e65a-9939-f13d01a4fb44",
+      "code": "399261000",
+      "display": "History of coronary artery bypass grafting (situation)"
+    },
+    {
+      "id": "1fcdfe91-61dd-1234-abc9-cfafaee763c6",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "36ced560-93b2-e857-16ba-d49f41ec37c1",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8c094c66-e413-4f4d-149c-a3205d779394",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "a9044579-1389-ddcd-2bae-10776487aaa5",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "73610fce-0342-e54b-528d-4fdf2f416e64",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4fb6385d-fedc-cd82-07c2-d574e92f9dc7",
+      "code": "90560007",
+      "display": "Gout"
+    },
+    {
+      "id": "db6dee9d-b6d3-a067-ef0f-86f7228008ba",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "03cc0cfa-9743-ae54-351e-3fa03a5c50f6",
+      "code": "254837009",
+      "display": "Malignant neoplasm of breast (disorder)"
+    },
+    {
+      "id": "b8e17a88-b03b-0cba-24a0-36ebb97ba009",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8e83da4f-18ae-6f08-562e-3f29ee3105e8",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "17cde117-0c03-6088-82e5-bc4e6e44b139",
+      "code": "368581000119106",
+      "display": "Neuropathy due to type 2 diabetes mellitus (disorder)"
+    },
+    {
+      "id": "95a054a6-89c1-cbbc-8a53-8f4fd7d8e424",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "832f9c33-cf67-1a09-6b21-270829895228",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "73f85ebe-e925-5017-0b72-db5f3506cd4b",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "ead9c723-312d-446c-77fc-1f39566f46ab",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5049b152-c784-f9a6-4558-4c682721b056",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "f5ef78d9-0f2e-9350-8877-9c88375e88b2",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6820e097-fb90-9a29-6e8b-f38dacfa7ec9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "773f31d9-e5d1-7305-31f2-fcb3e67c1122",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "00157502-98a3-a7fb-1b63-b09dce18c5cb",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "c30ca3fa-d63d-9c31-0c7e-4507a032d9ea",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "bf9ab63d-d44a-0f52-4d0d-bfac7bbd3c21",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f43ab372-ac27-ac50-6085-476a7cdfcd1b",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "f4f8c955-6df4-4f2b-bbd4-d53b351c5cb2",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "98b8ecdb-a947-c520-3f96-b5b6c976b4c2",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "44549e57-c59e-91ac-5e72-22e9af498820",
+      "code": "68496003",
+      "display": "Polyp of colon"
+    },
+    {
+      "id": "21f8bfe6-c202-f4b9-ee61-48b257ffef9b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "30a700e8-c567-db61-af17-cbb481d46753",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "b3b14a01-446a-5fe7-520e-e44517d8c7b8",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "14036369-1437-dbfa-516a-ddb5e14663d8",
+      "code": "422034002",
+      "display": "Retinopathy due to type 2 diabetes mellitus (disorder)"
+    },
+    {
+      "id": "9ccd4ed7-0b59-28f0-bb0e-daab6a9e1924",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5da5fa3f-6117-e6e0-52cb-5f4a0c327798",
+      "code": "10509002",
+      "display": "Acute bronchitis (disorder)"
+    },
+    {
+      "id": "9252c903-cdfc-6637-5f7f-799980ee3c7f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5277494d-b0f1-aec9-28d9-60c16310ff35",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "0b4e86f8-e3f7-50b9-289b-08b847ee7686",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "c5df136f-8a63-0b1c-44e3-581b7e66ae58",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b665fb2c-079e-1afa-dc75-87e8817a2a84",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "ee9165a0-d62b-3c73-fa4f-671ace89eb35",
+      "code": "1551000119108",
+      "display": "Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)"
+    },
+    {
+      "id": "b1efe56c-6f44-923f-fdcd-66d15fd21af2",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "56dcc274-e17d-9c7d-dabf-0f365ba3aa46",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    }
+  ]
+}

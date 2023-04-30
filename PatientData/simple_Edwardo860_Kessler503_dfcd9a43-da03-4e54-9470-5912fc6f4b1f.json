@@ -1,0 +1,434 @@
+{
+  "id": "dfcd9a43-da03-4e54-9470-5912fc6f4b1f",
+  "name": {
+    "family": "Kessler503",
+    "given": [
+      "Edwardo860",
+      "Gerard367"
+    ]
+  },
+  "gender": "male",
+  "birthDate": "1948-04-23",
+  "conditions": [
+    {
+      "id": "0ea726e8-076b-4c98-1b97-2345f9bc8116",
+      "code": "224299000",
+      "display": "Received higher education (finding)"
+    },
+    {
+      "id": "063926c9-d8a5-74cf-6c8a-694e0929a72d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "bae6cedb-87a0-6963-f499-88af8e39a50e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "350a283e-ef40-e74f-5b1f-6ff541f63e15",
+      "code": "59621000",
+      "display": "Essential hypertension (disorder)"
+    },
+    {
+      "id": "a8ceeae2-bf1d-dff3-21fe-661676104925",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "80a0b0a4-04c8-137c-ca5e-32580a860a01",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9548788e-7aec-5f2d-553c-485a1e5d2cb1",
+      "code": "39898005",
+      "display": "Sleep disorder (disorder)"
+    },
+    {
+      "id": "c2b80df2-04c4-b529-5e76-539cc896a252",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "63d7e6aa-6995-610b-378c-85eba2b7b620",
+      "code": "73430006",
+      "display": "Sleep apnea (disorder)"
+    },
+    {
+      "id": "f2acac6c-84c3-b4d3-829a-153a1b36413d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "2d5c231a-76e4-0ef6-ee5c-6ac1c5bb167e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "48810b44-e4da-6d9e-b771-0af9316f0330",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "69f073ac-2f6e-2c11-ca3c-823430f448bc",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d263f5bd-fa00-cbaf-7bba-bc8bafe6d27a",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9b9a4491-a71f-a097-b662-4563125594c6",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fb956c7e-be6a-95fd-4c5f-0a8f83c3b3a6",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "447c6ac8-9838-f5c3-864c-921a016292fb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1ec71669-b8b4-775d-750f-2df79fc6a5ff",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c2885a4e-b369-4881-f247-0a5a1fc82cde",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "26d5ee05-c26e-9055-0d6a-bff4f91d18e7",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "603e4217-7261-1107-de0f-df08bd87df15",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "262122ab-eaa8-9ae0-750f-fe9897822736",
+      "code": "266948004",
+      "display": "Has a criminal record (finding)"
+    },
+    {
+      "id": "efcdaed5-d018-a0e4-7a81-1ada6f6aa2eb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "24f01cda-2689-dc98-a0a5-24c102c16dba",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "ee800058-b517-2543-e0d3-ca567df84a9d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "dc4f5f50-bf5d-5b13-9b5f-8e5941311c91",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "83992072-9c26-77a8-a7bb-86d5052b240c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4143b6a4-787d-c41e-34e1-af04dec7552f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "887e9e01-1cd9-c586-6b41-32aa839121a4",
+      "code": "239873007",
+      "display": "Osteoarthritis of knee"
+    },
+    {
+      "id": "7f442f79-0d22-8eee-3eff-f0d0e597749e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1d8afbf8-028f-9db1-48d1-e2b293dc3c5b",
+      "code": "361055000",
+      "display": "Misuses drugs (finding)"
+    },
+    {
+      "id": "93d726b0-77ff-a6ef-e263-e9bbd536a53d",
+      "code": "10939881000119105",
+      "display": "Unhealthy alcohol drinking behavior (finding)"
+    },
+    {
+      "id": "64cd9b47-658f-a2e6-0dd5-b2619e966dae",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "81d9332b-a172-d83d-11d3-2416e1d3aced",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "8ffaa4fb-ebd4-0ec8-e25e-ba422fb9e0a9",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "c1d6b561-bc5d-fabb-2b18-40cbc89c0446",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6ef95ed5-0961-e151-aa2a-d9bdb0414964",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "f60dd972-42ac-9121-747a-0088b9690075",
+      "code": "44465007",
+      "display": "Sprain of ankle"
+    },
+    {
+      "id": "29d0abd3-74e2-60cf-f706-e747f3764581",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "0bf12161-d54d-769e-82f8-cdefad854612",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "746a2ed6-a620-adf1-fdc3-b7b609a52f27",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "19f5743e-bdc6-efd2-5258-15ab46b484ce",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "684aaa8c-5af0-ce04-7464-02f71fa7bc9c",
+      "code": "62106007",
+      "display": "Concussion with no loss of consciousness"
+    },
+    {
+      "id": "4e6c06fc-415e-2535-675b-32c47176d340",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "96a7d6bf-e030-c1d5-77a2-4fd876bc6230",
+      "code": "431855005",
+      "display": "Chronic kidney disease stage 1 (disorder)"
+    },
+    {
+      "id": "522cd66a-e18a-c220-9758-24d642c11dcd",
+      "code": "127013003",
+      "display": "Disorder of kidney due to diabetes mellitus (disorder)"
+    },
+    {
+      "id": "42319d34-5e29-1b14-1237-e2cea30a469e",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "d51973bc-c3ff-dea9-921a-723545a154a1",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "337fdca0-bbe7-0c58-995d-a9f9677605ae",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "9c639052-1e1b-430a-3307-09c4f95810af",
+      "code": "284549007",
+      "display": "Laceration of hand"
+    },
+    {
+      "id": "59bc6805-47c1-5cbd-2c85-0043fca36c10",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d45e1637-ce44-c42d-ae27-9cec58fb6123",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "3452d778-0066-1099-f77f-d9f4f33e80a1",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "29c55344-a0b9-d8c7-650c-c1de86eb3fb0",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "595fb11a-13f0-fc84-b4d3-a76f866af1e9",
+      "code": "10939881000119105",
+      "display": "Unhealthy alcohol drinking behavior (finding)"
+    },
+    {
+      "id": "381571d7-9d1f-48e3-846e-56034380737a",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "075c9a09-8d20-0d50-ed36-dd35c2f8a3bc",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "f6e1296d-019e-218c-8dbf-596b60c8003d",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "949be571-58e7-def9-60cb-7709efbeb761",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    },
+    {
+      "id": "b4af3d6e-dc2d-d5e2-f159-3bcdfb142dca",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b2c852a5-9df3-d414-edb6-120a589d646b",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "15e7236d-6753-c2c8-4f8a-48b8749395d1",
+      "code": "431856006",
+      "display": "Chronic kidney disease stage 2 (disorder)"
+    },
+    {
+      "id": "fb16eaa1-5084-ca11-a9e1-b94737ae263f",
+      "code": "90781000119102",
+      "display": "Microalbuminuria due to type 2 diabetes mellitus (disorder)"
+    },
+    {
+      "id": "3b5869ad-bb28-40e2-f9bf-006e025a9218",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "0af2b888-2489-1e33-232d-d0f5ba50a511",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c1bf1412-db24-6627-9fa7-a6571a3a57f9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "337b8f57-1fc7-ae4d-1ec1-1375f0d19d06",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "79233027-aa27-69dd-5005-00d33df3a331",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ff65c88f-54a9-d72c-868f-cc234cd0f8b3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9ea4e2b4-cd8a-99c1-902e-218570fcb1ca",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "471a39fb-99a0-b940-180f-6c8190270ad5",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "d01d3828-901d-746d-53ae-0bb8ac34e701",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "d6106a68-f594-0af0-9c38-f2439fe63aa9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "23b25995-c5f9-e8af-4a06-c0b134964077",
+      "code": "10509002",
+      "display": "Acute bronchitis (disorder)"
+    },
+    {
+      "id": "05848cbe-371a-b3bd-e9bb-a35fbdd38c9b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "2a89e6de-b5c2-5aab-99aa-ccac0a4a159e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "687962e9-6cde-bb61-9ae3-b321d5fa1777",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "31def51c-cd76-1d7c-2903-6958f0f4ec76",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "5aa09dc5-bb45-6a29-64a9-1b2de6200bea",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "104bb926-39c2-cad0-56df-33c2060eeace",
+      "code": "414545008",
+      "display": "Ischemic heart disease (disorder)"
+    },
+    {
+      "id": "6d62fa36-7b4d-5492-1a8a-fe97c0b79363",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "aad3d143-fbf3-607e-0c22-5b247c359443",
+      "code": "274531002",
+      "display": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)"
+    },
+    {
+      "id": "0d1b7e52-d1dd-eb48-3c0b-8e3394ef0bea",
+      "code": "399261000",
+      "display": "History of coronary artery bypass grafting (situation)"
+    },
+    {
+      "id": "0d9cceba-290b-1bd3-5c2c-1b7e53748fc8",
+      "code": "262574004",
+      "display": "Bullet wound"
+    }
+  ]
+}

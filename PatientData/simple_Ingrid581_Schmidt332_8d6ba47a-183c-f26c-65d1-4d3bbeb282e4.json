@@ -1,0 +1,19 @@
+{
+  "id": "8d6ba47a-183c-f26c-65d1-4d3bbeb282e4",
+  "name": {
+    "family": "Schmidt332",
+    "given": [
+      "Ingrid581",
+      "Frida746"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "2020-06-10",
+  "conditions": [
+    {
+      "id": "0d4bd8b4-36a4-4d07-d598-46d52c6d8dd1",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    }
+  ]
+}

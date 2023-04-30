@@ -1,0 +1,384 @@
+{
+  "id": "a10501d1-25bd-781f-b0c4-718148e9d776",
+  "name": {
+    "family": "Schowalter414",
+    "given": [
+      "Rochel591",
+      "Soo315"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "1912-07-03",
+  "conditions": [
+    {
+      "id": "ebe9f922-ab93-858b-2cde-a1d4e726e8f8",
+      "code": "5251000175109",
+      "display": "Received certificate of high school equivalency (finding)"
+    },
+    {
+      "id": "d3ecfc81-376b-f8b1-3f12-0960a8076040",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "091be419-1111-0514-d57b-3f8912c40033",
+      "code": "15777000",
+      "display": "Prediabetes"
+    },
+    {
+      "id": "3540a11c-64b4-bb71-8751-b082aac89888",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ffac509b-ac7c-0b24-c3ca-3f1ee73641f4",
+      "code": "271737000",
+      "display": "Anemia (disorder)"
+    },
+    {
+      "id": "512fb0fb-3ce4-7169-67ca-a4547d66d5a3",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "6bae582d-8046-8f46-c651-76464883de46",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "117a89c4-d49e-9cfb-87d1-6e25db322d47",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5489d9e6-9663-35ec-d39a-82e0d9bd9257",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "55dc870b-60c8-1608-0583-98a69a8be91f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5ec6e4ef-f974-2139-9585-18b799044f6b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "cd0e1cae-4450-c914-79d7-34fae5e8d34a",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "549a1482-f013-d0ea-ef24-59c7c5114cb9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "2c0ea156-a5e8-3023-7679-2ae935613b06",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "87fe0d0d-4385-ddee-7482-388eec35fb56",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "19865297-b135-3576-33e3-94e1ceb016a3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "438212c1-0e61-bb69-b925-ebb134974337",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "af6fba75-2689-2091-a7b6-8f9e5fc105b9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8b8dddc6-27ff-8019-5a8f-ead50e3382bb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9a993b72-130e-cd1d-1923-8f56d5431916",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "00032089-0dcc-b471-d8c1-c19e5b7b2393",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a9110cd2-20b2-af9a-bd37-a1b27a8a2a8b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9f30812f-dc13-d0f5-fb5b-121845e52a89",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b6bb1554-9251-a746-c3f6-904e777eefcf",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8f19e68b-27f7-0dbf-c7b5-bd41e60b8c58",
+      "code": "401303003",
+      "display": "Acute ST segment elevation myocardial infarction (disorder)"
+    },
+    {
+      "id": "c78b598f-86e7-143f-6f3d-cb0837c7150a",
+      "code": "399211009",
+      "display": "History of myocardial infarction (situation)"
+    },
+    {
+      "id": "c128b2b1-09ab-3b7c-8eaa-d71a84366b1e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "49440de5-8602-c341-da5e-c7fc93c32829",
+      "code": "55822004",
+      "display": "Hyperlipidemia"
+    },
+    {
+      "id": "5b7d0668-27d6-53d4-c4e1-a41e6de7ff32",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1e3693a3-362f-2fcf-b882-bb7a44d16e47",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "dc9d457a-2d19-025c-6f45-f7dc0da1f51e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "59985e6f-f446-ffb4-0a65-1fce6b5b3fc8",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b9a2794e-2a75-9f99-42ee-166255837228",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "0bcd901b-e24f-e007-f867-2b482c25667d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b678f5c1-c06e-26af-ea31-d377c260ae16",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "23b27ee2-df2f-3ce3-9665-70081b112cd3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "54d42bf3-040c-8be5-e6f3-af0d42a314bb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "24d0f75e-ea46-3a98-d298-a602ab24a886",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b310736a-40aa-4e48-92a0-72649229d115",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "77234950-7c6e-6d69-29b0-6f88f0d2ac56",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5941c555-49b9-61a2-6d45-1afc8e91232e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "cbf45281-14a6-bf20-fc0d-1851428de18b",
+      "code": "64859006",
+      "display": "Osteoporosis (disorder)"
+    },
+    {
+      "id": "bd74f5b3-7db9-9aeb-2593-945de4caffab",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "2a9527ea-626f-b44a-f6bb-955703270303",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "921e988c-0cf2-3087-b63b-f6be95c43bea",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "14ec5f0d-c9a8-a483-088d-7cbdecb72b02",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4887c752-fc5c-03f6-7580-41a042e944bc",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6f86e1ee-b341-5bb4-f569-7e3f462f1a9f",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "317acb66-2481-afc8-119c-1ce98d473ac3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "db495b46-f3a5-c630-61c5-ddc63e515233",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "552e69bd-cec7-3e65-a40a-8afffcb19e6e",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "59f7717b-c634-e035-ebe2-f583e26e871f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "87e1b39a-91ba-4e03-a893-7d65f48eb0b6",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "ac83b590-2b62-6017-2a06-56cf913bacb0",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "2cdc54a4-746b-50dd-ece0-d37d1a4cea0b",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "576da7b1-6b90-5ffc-6259-64dfb5a3d674",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "38bec797-29f6-4774-c648-8a9806435b49",
+      "code": "359817006",
+      "display": "Closed fracture of hip"
+    },
+    {
+      "id": "b9a76c83-f2ad-56b5-3524-b6f77e5c56dd",
+      "code": "443165006",
+      "display": "Pathological fracture due to osteoporosis (disorder)"
+    },
+    {
+      "id": "ad24f6ba-2a48-1824-3b5a-2931d1db95d0",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "366c3bd2-8e67-f0c6-84d1-6a05de10257e",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "7ba3b811-c1f8-b162-2efa-3e6fdec6f726",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "f9518906-4243-4bfa-0a0a-240a4a3a9424",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "4c7bb039-0b78-5ec3-4ae1-cf20f1cff967",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "0fbeb1bb-c119-b7e2-64e5-3a3467aeee61",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d5ad67f1-4ce3-6403-ae90-197002812701",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b9ab650f-5684-7e3b-c473-1f0b6f788544",
+      "code": "62106007",
+      "display": "Concussion with no loss of consciousness"
+    },
+    {
+      "id": "804063d6-24d4-6e69-4fb9-10605923018d",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    },
+    {
+      "id": "e6b7a234-36a8-35fc-99bb-9a3557a91815",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "13503660-21f0-1297-69ce-d32cdf7ca25f",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "b10486c5-e946-011d-c544-6758693cd8fc",
+      "code": "284551006",
+      "display": "Laceration of foot"
+    },
+    {
+      "id": "7d4b2d19-fa99-7528-b321-0e2e4d17dfed",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "54597263-cd9a-2da5-dbe5-8c2fcea73aec",
+      "code": "65363002",
+      "display": "Otitis media"
+    },
+    {
+      "id": "f6c827e8-15ec-0bfe-d668-fc8b76f10cbf",
+      "code": "283385000",
+      "display": "Laceration of thigh"
+    },
+    {
+      "id": "4f4fdb47-02db-d810-bd66-13e58e70947e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    }
+  ]
+}

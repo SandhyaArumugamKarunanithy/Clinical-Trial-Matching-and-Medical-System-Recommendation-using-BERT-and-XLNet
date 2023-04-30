@@ -1,0 +1,274 @@
+{
+  "id": "20eb68b5-3214-2734-f877-2c6d626b941f",
+  "name": {
+    "family": "Kub800",
+    "given": [
+      "Fidelia216",
+      "Anja508"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "1944-01-28",
+  "conditions": [
+    {
+      "id": "3d3a24ec-f471-3e0d-57f6-76ff4b561daf",
+      "code": "19169002",
+      "display": "Miscarriage in first trimester"
+    },
+    {
+      "id": "633fe1e2-b9cc-2835-c51e-d8781ea37a96",
+      "code": "224299000",
+      "display": "Received higher education (finding)"
+    },
+    {
+      "id": "58db215b-6db2-58dd-4fd9-8e0bc2a48fff",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9c0e361f-8a9a-a66d-b013-d48f31dc3ffd",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "9b8b6bf1-5751-8b71-a54e-7125f7b5ea6c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3ed5ec6c-2b3a-2851-ff05-0effc0e9cacd",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "5012bbb0-85b4-aa87-9fa8-c3c9abfe4201",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6984f280-96bd-3da6-71c9-af1d4177dba4",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "51370b34-81e5-3f2f-1059-dc1d2acc2320",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e11e3c51-4b10-2ef6-274c-4bfbf67b74a0",
+      "code": "40055000",
+      "display": "Chronic sinusitis (disorder)"
+    },
+    {
+      "id": "bbe74ad6-998d-34d4-eba4-8ee2f804751d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "7dd5cc83-f0f8-9b57-9ed8-eb39016bc140",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "7f4ac0ba-65d6-9deb-980b-58efa6c24dca",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f13f3f0a-d36b-9b3e-cc5d-aa7e93fb278c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "49dfd459-de32-d80d-fe32-160398245236",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a1ee5a3f-e5b1-eaaf-462a-57bb1ac10f1e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c2620ef0-27e5-9576-d2a7-ec63379a10ce",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "b5b8c7d5-ad57-8839-22c7-611c8c3418ba",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8763c1aa-5d17-8dd3-1dec-09e52b2e5385",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "8d7a8bdf-1c18-4dcf-705e-07cc71c6c549",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3b3c020f-72d8-0494-cec5-b9661005210c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9ff5f131-c353-1d92-00b9-409838050ed5",
+      "code": "59621000",
+      "display": "Essential hypertension (disorder)"
+    },
+    {
+      "id": "37f62ad5-a1d8-038a-cd25-128324a8cd04",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fba40a5d-5dc4-b871-64bb-77350dc1caa6",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "f61d4095-83ed-2525-1d90-7bf64cebface",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "662ef604-7920-6d19-cba5-5cd67c973627",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "3aacda1b-81f2-ca46-aa3f-2f97b5cb9309",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9760079c-4774-b3c3-ec7f-dcd39578c1ed",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "633ca5fa-863c-29a2-cfc9-a1fc4ebc963b",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "89ccb98f-4ada-4d85-322c-78d33bae990b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "29000673-8e84-6e6c-4aed-ef33c779cb31",
+      "code": "75498004",
+      "display": "Acute bacterial sinusitis (disorder)"
+    },
+    {
+      "id": "27bb807f-3a28-864c-9657-16b3177d93df",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "15829d83-2f74-6dfa-bb23-099f71852447",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "4179ed86-8992-8bdc-2e51-69c61c29397d",
+      "code": "43878008",
+      "display": "Streptococcal sore throat (disorder)"
+    },
+    {
+      "id": "00acb096-a8da-c8e0-889f-1bc309991ea9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "cc6da364-7a8a-2fdd-8baf-5842acaaea4f",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "912d8173-6a19-d399-60e3-5ccc905416cd",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "6d901f4c-45de-5b47-24aa-0a1e2387adcd",
+      "code": "10509002",
+      "display": "Acute bronchitis (disorder)"
+    },
+    {
+      "id": "48749703-457f-a91e-e0ec-df6b53952eb2",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    },
+    {
+      "id": "88279c0f-990b-965f-53d1-f50f30328eb5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "cede145f-69b6-6e05-a1ab-50b51c63fac0",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ab1fd62b-ed16-9b7f-bcc9-9039cadfa309",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "d7b68f9f-09e7-81a2-3e40-08e3b0c5bd3f",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "87059784-6062-133a-3373-2615d6b038a4",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "fa535dfd-5164-5b3d-1ecf-1ecb6642e6c9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c214963e-486c-e8d5-793a-e8d0be332a5c",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "7a39abc6-6df7-4410-0346-4ccd893a966d",
+      "code": "16114001",
+      "display": "Fracture of ankle"
+    },
+    {
+      "id": "24e7d669-3e11-6969-a876-75dd84dfa3e1",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "f60592f7-a4e5-f8ad-bce1-902f714da8d1",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "a3572a59-aa63-0166-5079-88c84965a231",
+      "code": "424393004",
+      "display": "Reports of violence in the environment (finding)"
+    },
+    {
+      "id": "e63e33b7-7663-330e-0426-4fa8ad920c8f",
+      "code": "88805009",
+      "display": "Chronic congestive heart failure (disorder)"
+    },
+    {
+      "id": "ee8eacae-2a62-ea31-f1ba-a6be4f8ddb61",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    }
+  ]
+}

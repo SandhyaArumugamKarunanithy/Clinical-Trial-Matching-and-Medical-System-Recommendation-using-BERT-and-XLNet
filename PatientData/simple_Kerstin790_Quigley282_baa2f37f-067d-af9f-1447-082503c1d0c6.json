@@ -1,0 +1,34 @@
+{
+  "id": "baa2f37f-067d-af9f-1447-082503c1d0c6",
+  "name": {
+    "family": "Quigley282",
+    "given": [
+      "Kerstin790",
+      "Dorethea38"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "2006-03-31",
+  "conditions": [
+    {
+      "id": "e7ba097c-a5c3-bd56-20a9-6aa4fef8fb0c",
+      "code": "10509002",
+      "display": "Acute bronchitis (disorder)"
+    },
+    {
+      "id": "e435fa34-a294-3417-742f-05300bb04350",
+      "code": "65363002",
+      "display": "Otitis media"
+    },
+    {
+      "id": "ea9d73d4-1a6a-7ffa-4dba-c74bf8f5c758",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    },
+    {
+      "id": "61779cde-d3b3-6942-71b7-dd12e89ac45e",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    }
+  ]
+}

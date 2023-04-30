@@ -1,0 +1,93 @@
+{
+  "id": "fa9fc6b0-efc5-496f-f7bb-62f8bfba9104",
+  "name": {
+    "family": "Spinka232",
+    "given": [
+      "Jewell855"
+    ]
+  },
+  "gender": "male",
+  "birthDate": "1984-04-08",
+  "conditions": [
+    {
+      "id": "5d3e1a4d-2381-2196-4448-c3d50d095c75",
+      "code": "224295006",
+      "display": "Only received primary school education (finding)"
+    },
+    {
+      "id": "f937c97a-3b6a-f433-92ae-bceac6d4e32b",
+      "code": "266934004",
+      "display": "Transport problem (finding)"
+    },
+    {
+      "id": "024d5854-69e1-7d18-e842-7aa3b5e16827",
+      "code": "15777000",
+      "display": "Prediabetes"
+    },
+    {
+      "id": "083d36c3-7599-c3e6-19de-c2e823edc3e4",
+      "code": "271737000",
+      "display": "Anemia (disorder)"
+    },
+    {
+      "id": "350d74e5-aa97-b431-2e5a-adb7b2e67c28",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "58408d13-7a74-139a-4431-c8e9ce49e9af",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "24e8036b-4abe-d224-d8db-fdfdaebd6db4",
+      "code": "713458007",
+      "display": "Lack of access to transportation (finding)"
+    },
+    {
+      "id": "077389c5-cef5-fa39-2ded-84992ce4fd28",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "1bdc0ecb-189e-6f66-fa36-490a36e8b302",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "2c1be4a1-f24f-8cc9-2bff-a7a0cd02561d",
+      "code": "36971009",
+      "display": "Sinusitis (disorder)"
+    },
+    {
+      "id": "023b2c37-2fca-29d6-f6fb-6c34e87bc24e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "aa4bd36b-6f13-117d-625d-d60018555b7f",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "bd8f67d6-5215-512d-5655-74a4a1ef7d86",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "2cd14402-c7a5-8bef-7e14-29352647953b",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "80031c0a-6588-8ad2-a408-95ded2b7e529",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "3b3e2c5d-b6d2-32c5-ff4a-77a2a80a8ee7",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    }
+  ]
+}

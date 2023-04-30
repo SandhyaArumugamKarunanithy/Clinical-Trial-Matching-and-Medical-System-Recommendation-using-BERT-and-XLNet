@@ -1,0 +1,229 @@
+{
+  "id": "b57c629b-fa47-b475-004e-76d752efd4a3",
+  "name": {
+    "family": "Stroman228",
+    "given": [
+      "Sumiko254",
+      "Whitney250"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "1965-06-27",
+  "conditions": [
+    {
+      "id": "6d4e30df-40f3-c928-fa3d-3ea92bbdd261",
+      "code": "19169002",
+      "display": "Miscarriage in first trimester"
+    },
+    {
+      "id": "8af4029e-3d80-2ba0-ae65-caec7b75bd10",
+      "code": "224299000",
+      "display": "Received higher education (finding)"
+    },
+    {
+      "id": "85fbf2a3-42d3-8b84-f4e1-3f088487c266",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "2011f299-c872-eda9-f764-8d8b8b938c35",
+      "code": "196416002",
+      "display": "Impacted molars"
+    },
+    {
+      "id": "8a04b5f8-d76c-8155-5022-71747bde5f3b",
+      "code": "82423001",
+      "display": "Chronic pain"
+    },
+    {
+      "id": "b828f822-2cac-37c1-58d2-33c708c95c97",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "29633d5d-b0b2-3916-429d-21557b24d2e0",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "1b54e4ff-87e1-0f1d-46ef-cfe19f72c6b2",
+      "code": "124171000119105",
+      "display": "Chronic intractable migraine without aura"
+    },
+    {
+      "id": "4a0aa2d9-414e-4652-42d1-0b713204dcf3",
+      "code": "6525002",
+      "display": "Dependent drug abuse (disorder)"
+    },
+    {
+      "id": "ce08fd6c-b7cc-0ad1-eac2-9aae870f9d32",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "19f776ff-cb75-dc37-8972-627e882f3c7c",
+      "code": "55680006",
+      "display": "Drug overdose"
+    },
+    {
+      "id": "935781a9-e743-50d3-debf-c5e05307780b",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "be5a8cea-d6d5-747a-7061-86b08780b1df",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "b7f66741-d8cd-8b86-1197-500266f7dcf2",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "409c7a00-7373-dac6-caf7-b34072271b13",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "bff152f7-0519-fe48-1803-2499d5718ed8",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "888edee1-d1f0-697c-0844-e1e4138a2d62",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "b4fd1b5d-7267-b603-b12d-fa3ba2f6ee40",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "a2f49d12-40ac-b391-8189-70ef26d9d8e8",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "fc997bdb-c9eb-2836-4c4b-37664355c87f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "af115dfa-b8e6-55ed-0de7-7a5d8f85d669",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "81dbd766-1616-ad11-ab78-f37dd38c03ea",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b8a33d8d-26d3-8894-5890-e85a6b1bfd48",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "fbb10aa6-74da-2178-9f60-b65fcea21900",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "c54c9ad8-7d64-c799-7b1f-1a5bfb825834",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "34341dbc-74ff-0951-8621-8f44b83af870",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "bc7784d8-5f8b-728c-31ff-94bca616163d",
+      "code": "72892002",
+      "display": "Normal pregnancy"
+    },
+    {
+      "id": "9e123fde-6580-7507-b281-491080fdd7e6",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "90bd2bea-254c-efdb-67ce-daae0cf6175a",
+      "code": "284549007",
+      "display": "Laceration of hand"
+    },
+    {
+      "id": "46d50ba3-9593-9237-63d3-efe1915f7f87",
+      "code": "59621000",
+      "display": "Essential hypertension (disorder)"
+    },
+    {
+      "id": "98fe4c51-05c9-e4e3-e828-2297e3aedd99",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "b8b32829-9998-01e4-c7e4-0fe5f3879b49",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "2e0c4e95-a10b-5ae9-f8f8-1aad1fe8a52a",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "ea44cf11-77a9-af6b-11d3-16f7e2c1b981",
+      "code": "15777000",
+      "display": "Prediabetes"
+    },
+    {
+      "id": "1f544936-6f72-32d4-d177-8fefb1ef66e5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "cc66c8c6-95d5-87ea-5061-4d9760f00ae8",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4f27331e-f445-3620-a34d-30ccd9fd3c2c",
+      "code": "237602007",
+      "display": "Metabolic syndrome X (disorder)"
+    },
+    {
+      "id": "5df8fc78-2096-8fdb-b778-62f830ba6253",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "66766e92-6494-f5c8-ba65-fcbb8f06b060",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "2eacd4cf-4a2e-e187-f46d-6d45d5e3d15f",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "f318ee9f-166c-a4d6-2aab-6006bd461788",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "87335e08-952f-b7b5-3b14-8a45d60f68b5",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "737f513d-8af9-0325-81c3-a598782ee6f8",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    }
+  ]
+}

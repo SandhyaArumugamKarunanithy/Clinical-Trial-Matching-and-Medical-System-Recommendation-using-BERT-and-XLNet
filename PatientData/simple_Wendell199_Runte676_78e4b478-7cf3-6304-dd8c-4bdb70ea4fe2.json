@@ -1,0 +1,169 @@
+{
+  "id": "78e4b478-7cf3-6304-dd8c-4bdb70ea4fe2",
+  "name": {
+    "family": "Runte676",
+    "given": [
+      "Wendell199",
+      "Lou594"
+    ]
+  },
+  "gender": "male",
+  "birthDate": "1956-04-07",
+  "conditions": [
+    {
+      "id": "ce4f4b00-6765-dfcb-ca94-2fab54045645",
+      "code": "5251000175109",
+      "display": "Received certificate of high school equivalency (finding)"
+    },
+    {
+      "id": "99dd1acd-b553-bdf3-e748-577b9d838746",
+      "code": "713458007",
+      "display": "Lack of access to transportation (finding)"
+    },
+    {
+      "id": "de51e278-dc81-13b4-8435-28b1bdbf5fdf",
+      "code": "266934004",
+      "display": "Transport problem (finding)"
+    },
+    {
+      "id": "64204d40-544b-7a9c-91c8-79e87d0cf396",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "1fe6b873-7b10-6cec-0906-1477bb9528fb",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "683627b0-f0ba-d6ea-4f0f-139fde9d6bd8",
+      "code": "40055000",
+      "display": "Chronic sinusitis (disorder)"
+    },
+    {
+      "id": "d5eee7f4-c620-0473-f1fe-0c9cffaeda21",
+      "code": "55822004",
+      "display": "Hyperlipidemia"
+    },
+    {
+      "id": "480be5bd-c040-d1af-b873-e0de889824ee",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "8c64f9c5-8cc5-5322-4003-dff20f7f47c1",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "8b6818a0-96b5-9767-8931-c8d68597831d",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "39e02d05-cbec-9af2-ce4b-aac058550215",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "b7225a0d-ba5d-213e-91b7-3588d94d97bf",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "517a6512-079d-387c-7c35-502c9832fddf",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "8d4f331b-2e49-0905-723a-72a2a275f6fc",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "e32d4892-6f8b-e9b5-0b03-26a3b5e876ce",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    },
+    {
+      "id": "10ca86d2-deda-706d-0d92-2777210a5033",
+      "code": "1121000119107",
+      "display": "Chronic neck pain (finding)"
+    },
+    {
+      "id": "8de2ac16-30ca-7606-00ec-00b7dae0c875",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "bf31fb68-c579-d283-05b9-9a95c5dbe8e4",
+      "code": "414545008",
+      "display": "Ischemic heart disease (disorder)"
+    },
+    {
+      "id": "ca188a80-d092-bf7a-b6db-34400bf88fc3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "778c4ae7-337c-e0b8-615a-40299ba44f37",
+      "code": "274531002",
+      "display": "Abnormal findings diagnostic imaging heart+coronary circulat (finding)"
+    },
+    {
+      "id": "9e19489a-5002-42e8-0d8e-d5a23c0dd6ef",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "db66a9d4-c28f-4594-ee51-591c1bac48ab",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "9605cbb2-fdaf-1db6-1791-23d49bb3b0d0",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "59d95d89-33ac-f5e0-82e8-e92b8759a4f3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "63aa5dda-c0df-dd4e-ca30-d1c558ee0c68",
+      "code": "36971009",
+      "display": "Sinusitis (disorder)"
+    },
+    {
+      "id": "4e227747-262d-7984-fa8a-77fbaccf32e2",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "96e6cb0d-8134-8668-9b4b-32b3a41c45d4",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "df6f1a90-66ae-5fed-4364-c8f5a912f2b8",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "56798a21-b210-5cf7-73e9-8c3b1ae1d20b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "41a2fdfb-1313-f828-9561-7538d8dc2ae4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c3853f52-b34b-194b-a27b-20b226a6bb25",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    }
+  ]
+}

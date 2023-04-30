@@ -1,0 +1,1314 @@
+{
+  "id": "0158a930-3220-5084-7089-dc9e2784d7f7",
+  "name": {
+    "family": "Yost751",
+    "given": [
+      "Tijuana228",
+      "Joleen561"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "1912-07-03",
+  "conditions": [
+    {
+      "id": "53d422ee-88ef-ad2f-d82e-24e59ff5d2bd",
+      "code": "5251000175109",
+      "display": "Received certificate of high school equivalency (finding)"
+    },
+    {
+      "id": "6b38bb41-cba7-61de-f517-4d519217c332",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8c3c60b6-59fb-4532-ce8a-ae3a907720cf",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fc5eb7d8-139e-a0bf-2212-feb68e023d93",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "5e7b9d7c-c0c4-022b-ccdb-29ae394d1940",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4bedbb81-d19f-5471-a3bf-ba1d68de22fb",
+      "code": "15777000",
+      "display": "Prediabetes"
+    },
+    {
+      "id": "bf74004d-2537-3002-dbee-7bab76816045",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "dcbe13ae-5e90-47c0-b3af-7fcee6d0f5c5",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "8084ab68-868f-7960-29a9-59bd8eb6c875",
+      "code": "271737000",
+      "display": "Anemia (disorder)"
+    },
+    {
+      "id": "3456f346-bb39-4c80-cb05-2d943567e967",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "764a4b27-6c43-16f1-fe9c-da9708b59381",
+      "code": "19169002",
+      "display": "Miscarriage in first trimester"
+    },
+    {
+      "id": "822962e6-92ac-e151-8570-5e14e8c414b4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d6653168-6663-a3af-f658-26c596617efe",
+      "code": "59621000",
+      "display": "Essential hypertension (disorder)"
+    },
+    {
+      "id": "64ba1698-d684-e122-9302-38dfe1ec3bc1",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8259ea78-b7db-5c30-f1d0-4b7ef3414676",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "26b66346-d511-e5ad-9d1a-ba8b1f782574",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "a8141424-8efb-aa2c-6918-6012eaa14bf7",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "380c9cf1-7ada-087f-71fc-e1cce580db17",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3dfe945e-6a4a-53f6-12f3-fe1d0761797d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "51d5a293-6162-9ae0-4003-94ea54f2a758",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d898ab72-ada1-bbb3-4282-b417c985605e",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "537d9f2e-27b8-af81-3b81-5ccee68ea188",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6d1c5eec-4e5f-be9f-1c59-841e9aab3ed3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a6cb2bda-e3fc-6747-d36d-cd42b088f062",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "4c6cce2c-4c6f-d695-06be-d4d473af2e16",
+      "code": "127013003",
+      "display": "Disorder of kidney due to diabetes mellitus (disorder)"
+    },
+    {
+      "id": "f97a2e34-21b4-3cca-4605-8045b67691af",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d13128a0-266d-a886-4ac0-f73770045ebc",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "4573bab5-20a8-fd7c-08d2-8cb3592dcd38",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9f0f6d10-e0eb-fb6a-c129-d567750a713d",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "30f7c923-f49f-c38a-047e-1880c35d3836",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "84aa24a8-873b-95bf-dcaa-481468dc6290",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "42a4e4ad-b7d4-01a1-7827-dc67e63934cf",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5baebb10-3c05-a334-6fb6-b42902efa0b9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "39b1b16c-0427-0d87-bc54-2fd0681f26e5",
+      "code": "90781000119102",
+      "display": "Microalbuminuria due to type 2 diabetes mellitus (disorder)"
+    },
+    {
+      "id": "48fec25b-9928-9eeb-4e4d-19ee6f72f1d4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3e5d4e66-63e6-d9d3-0bcf-b09fa7784fc2",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "8648532e-55da-5451-4a01-00bfd5cb0cd2",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "bbcf002e-df09-cf5e-5b94-e3b2d8e31318",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "2b0b90b1-c34e-23fc-15e8-64bb288d7fd0",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "803eb64c-89a4-e212-a8a6-203b2a4897e7",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f0a4c283-ae92-76a0-11a6-d8c68b875f27",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "7ad56f4b-1588-9569-2ce8-c3ecf28ed403",
+      "code": "267020005",
+      "display": "History of tubal ligation (situation)"
+    },
+    {
+      "id": "ff92499f-e235-b004-59cb-280afff38db0",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e74cc74d-50c8-2137-e390-99660780d8a4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e826d4b3-78cf-8c7e-e4d4-6158c25797be",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "5bc8efd8-fe60-0786-e7cc-ef5f2ee754d6",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "07ee5627-8e39-4e1a-8e76-27e403fbfc61",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "63fdb1c1-cc75-8889-695e-4095acb9e826",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f2fd8e48-213d-a9d8-02c7-b4bde586ceee",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "e8c355d4-2f1a-a0a4-5c48-b28994281490",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6c57ceb7-375d-20f8-20c3-b1d71e4b32c6",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b55c47ce-1b89-b12b-4886-55f946954ba1",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "bb3f2686-6b8e-3870-4b10-6747d4bb7b25",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "69a80e2c-9bb3-8d51-daa1-e73f76bb9381",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a039b7bd-37a0-2121-127f-15102866cc3c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b3cb2813-7acb-f860-be28-7c88fedd683d",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "e191a42a-95ce-1f0c-3946-8b8a45a9053d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b76ad088-39f2-630f-9a76-be46a25a1abb",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "f4bd2d00-fe86-4fae-3572-f06a7d5c7a12",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6974b17f-2a50-de1f-e3b0-a135f73ce2cc",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "085ad637-53e3-e8cf-6cec-c5cd2257f433",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "7f7a1629-2727-f72b-0729-670cfd56c137",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8b8a61fc-daee-62bd-a931-9ddfaa429176",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "a5459920-908a-2fa3-1209-f7fed8c45c40",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "de07fa14-d2d2-4122-6d60-107005152c70",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c01ef5d3-02e1-eac6-7172-43e0332b9215",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "da94d915-bd85-7298-4e57-72d9be941775",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f280e441-ee6e-1da8-011b-7cfa037cc942",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1753ce32-7759-8c39-7661-08899d304247",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "b803a869-9211-3313-dc39-749076d3a0d3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d703c4f6-10ef-c71d-ca26-339b1321a8b5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "810a4c21-e664-4c9d-af02-797c7e0f0e75",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d9e41390-b0b6-8bb3-e4d7-d28401ab1a45",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "88123e69-a22f-2c84-f9c5-394cc5863d26",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d4658cf1-3a89-9236-9d3c-3731c0fea7e3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "871ebfa9-7d61-3db6-28eb-073e9ed88fc6",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "0aac5341-1968-9d6a-a556-2105319dc410",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "84120da9-be8d-f39b-f699-159b2f6542e9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "852fd09e-94c4-41d2-115b-5ab2023e3492",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "7f1377cc-3e72-9ff8-3f10-2208bcc5f431",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f3d2a1e0-58f5-b5f8-a8e4-f5113662dc83",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "2180014a-c22b-914b-f7d7-cf723e344330",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "1e396b7e-d807-7875-733e-0236e8b8bc74",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d00dba8d-054b-4387-bfe3-e5d11e30f2ba",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "af96d7da-db81-673c-4ca8-432612d68e0c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d3d6dac6-94d7-9032-7fb7-13b49a9ff07a",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "96d00fe0-7f67-a8cc-0dfe-5f02660cd0e2",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ac19eb09-02bd-a8bf-f7c0-e58d93c72441",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "a8e9217c-807c-73ef-e12b-dbbe2a5eee98",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9625031b-6e13-1e01-b611-1b6a84aa3a22",
+      "code": "237602007",
+      "display": "Metabolic syndrome X (disorder)"
+    },
+    {
+      "id": "9bba3300-0e83-25c6-11f8-b2d7d6f67e29",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4e379f26-1b2e-f35a-c4bc-4952dedc0fd3",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "ce4f04ac-e3af-5528-efeb-24d518abfce5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "929574aa-eb82-0084-7c23-da874ff92b1d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "486613cb-6c3c-da94-de9a-70df6ee450d7",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1369a0d8-8549-3b73-f9c3-012facdbb971",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "070ee89a-6f5b-941c-6788-496a5736ec11",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "7cf6dd19-f015-7fd3-ea63-b5291400e129",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "7e8d2167-c3e9-5e99-c36c-f3a0c8081836",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "414e2bfe-f4c4-cdd2-c580-58429e679402",
+      "code": "157141000119108",
+      "display": "Proteinuria due to type 2 diabetes mellitus (disorder)"
+    },
+    {
+      "id": "97336cce-183e-716b-79f3-3b8b6af1a8fd",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "2fc3d256-bfb5-1eb8-b1b7-c5a13c7e7de9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "30098343-62d5-a2cc-94d5-a33dcbfdaf51",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f927fd57-3403-e114-dfe5-3780bc314ff9",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "2497fa7c-23af-7bba-ad98-06c8e084d5e3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1354714e-e8af-2bdf-82c3-decc8976dc9f",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "54439ba1-b6f3-6c43-b8dc-4a02b6a38898",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "77205e1c-e8dd-f416-e70c-fb0b9846bafb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "92cd7813-702e-82b8-196c-89a18424b67f",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "526e6f96-6aed-be2e-e3ce-048aff25c844",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "2c9f7eb9-7aec-dd76-da42-0b9620a817c8",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "b0bdfdbd-bf30-778e-a03c-afe77e869363",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "da667b62-7e6f-8916-a9e8-151c196870d7",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e557e106-329c-10a3-5b30-7290ef1f5855",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "35297ebc-3421-cbbe-c4f7-fac88eadcfda",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "74576fc7-14c7-aae1-f362-c7a850af512d",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "defcd15f-8ef9-abc4-3a20-16bca9d15a91",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "84819096-4786-64b8-f1d4-147b5dc47a09",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b0954b38-3281-70e9-410a-fb37a4442138",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3e9378be-379d-ed4c-e58b-d9691e4719f3",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "c7b1ea30-15d7-619a-0de8-a477b031d758",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "25fba418-bba7-2741-3fa3-386c06f604ad",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "cace7b9f-d0f4-8614-a326-41964407db28",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "981d4170-8e17-0090-a25b-5cc4b37962ec",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ad688ef3-c2f1-b9e0-9512-32b38dd1acde",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "93ee56ba-3ffb-361c-ce2e-0d1f9d9432ce",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "d2b48fcb-ee6d-395e-c3d7-a378c2f8538c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9c653f61-f3a6-1397-d8db-95692fca1e91",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "64d2b7c9-7bef-944b-1c4f-cb049c27c380",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "aab1b577-b682-6983-2a4c-9ef9e73aeec7",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "123eba90-fe42-7469-b59a-c409621dc23a",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "06d6c090-a1c6-8a68-d8a8-476f83dee950",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "933d9850-92b3-6881-e3ae-e3bce8dc3597",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "99ac8a4c-58da-e516-e7b7-704d876651a6",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "6e873aa6-d010-2a81-1ee4-0f506948b74f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "aab3710a-768b-7024-893c-5dcf899f9ab8",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1a03fd31-9a10-2d59-811c-d586ad111a45",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "2b4a80f5-093f-529a-c888-08db433df339",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c170cc8b-22e9-ea86-29db-7c9d6a3ea0dd",
+      "code": "266948004",
+      "display": "Has a criminal record (finding)"
+    },
+    {
+      "id": "7f725fb1-f6a4-3f52-2b8b-171218455051",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f57ab7c9-1b3e-6ea0-fc31-2b8b92cddeec",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "db6e42ad-c318-4600-8db2-763a69c9ef16",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "4bace6a7-9011-9b1f-f941-1e80e1f3044a",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "7b00125a-c235-8b48-6bbf-6ab4ce20abcc",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "7fccdc6c-c7a6-ab1d-b05b-7eafdab3a00d",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "1c3bd916-016f-a334-3c84-890a2d586261",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "50951783-e143-dac7-27d0-702d90b59615",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4db4f646-5e58-891c-45c0-a74426942210",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9b5207b7-0a23-9054-e35b-de3812b03a67",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "adadf2a0-9562-9731-e468-6643d2746d03",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9c0256b6-ab61-8120-3278-99f44de66a6a",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d284b9e5-7f1e-bde9-d9d1-c4fcb12b8580",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e5c2f087-0f86-205a-7fef-331a10de04b9",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b592fcdd-3189-c1f1-2069-1f5bc69383ef",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "30679971-cb5a-2af9-a3c9-88cdb1ae0032",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "7325ea1c-d8fd-246d-1a7e-1c626dd6af33",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "45c63f30-030f-4d64-7a68-65b7b24eaa43",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9fbefd9d-83bb-da71-a30b-aff3fb85a1de",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "55d76fce-d414-e30e-7fc2-87ffeda2f9f3",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c2abddb0-67dc-6ce0-f383-c7f6e65057fa",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "03c51839-e9bb-f42d-3271-c44e4fb78093",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b3580a27-ba52-f6c7-3822-03ca76be0db1",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "5fac513b-8205-5062-71ec-66a5a9eb8602",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "04a2dc07-971c-0958-7a71-51fe3c75bf30",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3e391984-bd9b-9486-7e46-9d3eec205310",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "49000c72-dc19-1fe8-74d0-e02887c677d8",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "84659fa7-e76e-0300-6204-3264734ad8ac",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d648ccd8-df1e-5486-13a7-d21bece6a3db",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "51b1a94e-23e3-b533-711c-b6b55df91e0b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a6666c71-d347-2538-babc-586744c91807",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "a4cf88cd-742c-d349-b488-7ec3e20db190",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4ba70652-c8e2-f5de-ed0d-5c38f0bbde33",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "50b3b121-190c-7309-9aa0-87e634aef62f",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "a17e77f2-f4eb-b4d6-03c6-e9a8bd1b589f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "91211800-466c-659e-da1c-559ad6e0da0c",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "28fa8c00-504b-8179-84b6-c5c43eb9466a",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3fc5d586-1bf1-a752-4aa2-c0fc2e5916ab",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "46007089-2204-0463-28b6-e0597ab2bad4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a8e2ff27-e42d-de9b-8da8-11fd77d3cefe",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "74fc6751-5d65-3660-0761-e4663fe3b404",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "01090868-a02e-d431-4c1f-44c76d0c7818",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "bdad406a-60ba-63c6-65d5-45c3e6cb7fc4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f4914228-52e2-cbb6-1403-7ed19d7facd5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "0056baf1-4bb5-f29d-89bb-7810c32a1b76",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c2719110-f9a8-fdd6-d898-5ceb912525e2",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "41aa74fa-f32a-27c9-bf43-15c6ad065ca6",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "c0d93e91-5a4e-686e-f559-51494f90fd7f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d0bd741e-ce3b-9482-1f0c-ed6df681d4d8",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "74c06a2c-1509-3134-0eb8-3d72f60d508a",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "1cb541c1-5d32-7a7e-8312-22d40c641265",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "bf64a53d-5307-0ae1-c0ea-488a9e51f542",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "69567781-86e7-b998-874e-e217bf40a307",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "f88b7ce6-1560-469d-6c78-e5c4f2d84a6b",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "c9124766-3926-34cd-e897-cfeea886721a",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "56744ca7-c854-925d-4f76-a1c1e12dcb6c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "36d30df7-df9a-7377-7a77-6cd5d81c29d2",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "409eb1f8-ca58-edb7-7bca-8af18dc2b6db",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "a004ae8d-1530-5811-9447-2b2abb153d4b",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "15b148fe-3439-8333-c805-1034eec6dc13",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3bfa2719-dce4-b44c-b188-d4f6890d856f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fe4e5867-9e66-4296-e3b6-fa8b1b6a2ae5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "3fd4fa7c-6dc3-f951-d559-366456319734",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fef0ce2b-f69f-8db8-ae07-4636ef1924f7",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c3cababf-f61b-80ba-e9ad-6dd5584aeb0f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "dfe83034-d9f6-f088-e195-590f5f7d5cea",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "4a0146ad-d470-f525-bf19-9cca6d01eb91",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "e031e60a-399c-a19a-3c08-7f9976920533",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "6b111cb4-9dfc-3882-07a0-1e0a8510c5d5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d699313b-e5ac-09a0-b250-bf519128f72b",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "2dcecfd7-1ef0-2dfd-e756-aa14338dc0b4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "faebae69-b4a5-c1cd-bb69-b1a88ddc7905",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "537f963d-d6da-7f2e-f97a-a971f95cb702",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d31ad69d-8166-2162-0775-7dcb7d3e71dc",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "34430b9b-f73d-3c4e-3d54-3b95d5594caa",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4bb23fbc-dcae-f5d1-5f54-7f8a95e9e352",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "5d978c3a-05a9-fefe-9fd3-0bd4c6e5a65b",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "4dcad12a-b2b3-6673-85ff-8f63dd71c796",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b68505cf-17b1-87fe-bd62-647be6b9ae12",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "fce9cec4-190a-5cd5-12ab-e9a10ce81bfa",
+      "code": "161665007",
+      "display": "History of renal transplant (situation)"
+    },
+    {
+      "id": "bc2dfcda-8ffa-7adf-45cb-16c9446f1387",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "9497ae4c-29e2-15a6-a03b-b27b5bf0f294",
+      "code": "83664006",
+      "display": "Idiopathic atrophic hypothyroidism"
+    },
+    {
+      "id": "fba94bfd-6a08-368e-6e68-b11a49389b8e",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d607c74b-9e30-542b-4f4a-5def79a1baeb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "dff33ef7-c515-8b91-60d8-1ed249c4de97",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "162e30a8-f123-7f3a-91f1-cc8e7bcc1669",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "49396193-f468-90a8-aed9-c8b159d1928c",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "03dc319a-f06d-3485-4a9e-efb1e94f66b2",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fae1c674-0ed5-d54b-d9e1-2b150356efe5",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8354da73-59c9-c46d-f899-094b932c15ca",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "663aeffb-e473-9ea0-ca4d-248746f5292b",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "857d0fd0-2610-36b5-65e4-adbb3fe3aaeb",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "bb27452b-228e-ec0f-313f-07efd1754d1f",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b461799c-3924-392f-97d8-fc185578446a",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "c4c1b855-995e-8319-2670-5f4a584b55a2",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "81b7d5d9-4d7e-f8a5-428f-ee89dd501ea3",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "8b302fd7-50cb-963d-675f-71d9de5f1859",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "02a55fb0-6466-89bb-0927-2daaf5d28c4d",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "abeb78e3-4fdd-483d-bcef-1a7bb1edd002",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b4236371-ff62-54a6-ebac-1c9f7237d9d1",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "437d1d6c-5370-d499-c02c-811c67959f08",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "c50bfd32-7b13-d242-4395-a318557c7625",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "890bc6e3-a1ec-d574-02a0-61db43326a00",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "6f580d37-7564-1ddb-5bdd-307116e8a062",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "c6f99057-6762-4798-025b-1980af1ebb54",
+      "code": "55822004",
+      "display": "Hyperlipidemia"
+    },
+    {
+      "id": "ee787e68-aa69-a477-c283-84f0b0f43fa7",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "bc4e9504-0c6a-113c-187a-c804851af076",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "8d342e98-ae26-d78a-70ad-92df83ef1ddd",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "c8d88d14-18e9-1aac-35d3-b2e224fb489a",
+      "code": "26929004",
+      "display": "Alzheimer's disease (disorder)"
+    },
+    {
+      "id": "e6835dc9-5633-e7f7-5ac5-218bc5721910",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b33333d6-277a-1d05-10e2-48f121632e90",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "fb41e75e-2f3d-4220-3b23-a135a51aa3bc",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "28417fb7-bcb6-ee87-c61d-22a7caab2895",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "f65bfd26-2d12-734b-890c-f7e7ccaa7420",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9cb63674-5275-47b1-d47c-de8b05cba004",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "c66247cc-cf61-5d5b-ba18-88f2460bfc21",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "b3d28c09-1e26-8e4a-224d-18ee8e2dda5b",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "76abe8d1-06b2-6f94-ccaf-6abcc5bf7762",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "cb221c03-e9c8-135f-195e-f871e21a0b0a",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "358fcb3c-6676-8db9-ba03-227cf27f0fcc",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "9b955f1f-249a-8c9d-773e-088ecab5838a",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    }
+  ]
+}

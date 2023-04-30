@@ -1,0 +1,79 @@
+{
+  "id": "e0f841da-0e8d-9137-8dfc-695296083d6c",
+  "name": {
+    "family": "West559",
+    "given": [
+      "Albina13",
+      "Vannesa928"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "2013-04-18",
+  "conditions": [
+    {
+      "id": "5f555880-b196-00fb-c0c7-68da237ed92d",
+      "code": "65363002",
+      "display": "Otitis media"
+    },
+    {
+      "id": "0fc87128-e82b-4623-0dc9-265e5dfa2496",
+      "code": "36971009",
+      "display": "Sinusitis (disorder)"
+    },
+    {
+      "id": "efcd39e7-39b8-53e9-7e41-834aa34170c3",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "0919b257-4d89-781b-feda-7745b9a90086",
+      "code": "10509002",
+      "display": "Acute bronchitis (disorder)"
+    },
+    {
+      "id": "9665f18a-ca32-2189-c8dd-a5e03ebdc678",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "b331223a-4b0d-5869-3d18-c8769be3cfcc",
+      "code": "44465007",
+      "display": "Sprain of ankle"
+    },
+    {
+      "id": "67d3a197-defc-bbb7-aafc-f11718fa7053",
+      "code": "49727002",
+      "display": "Cough (finding)"
+    },
+    {
+      "id": "95e5fc2f-d847-ae26-ce02-39fc01886d18",
+      "code": "84229001",
+      "display": "Fatigue (finding)"
+    },
+    {
+      "id": "f347c5a0-190e-3c26-94fd-5a509ce5cf83",
+      "code": "386661006",
+      "display": "Fever (finding)"
+    },
+    {
+      "id": "0953597c-a868-87a5-4be9-4e544a87494f",
+      "code": "840544004",
+      "display": "Suspected COVID-19"
+    },
+    {
+      "id": "42640bc2-1987-4fce-13fe-a71dd8109b26",
+      "code": "840539006",
+      "display": "COVID-19"
+    },
+    {
+      "id": "34ab16db-d6d6-b08a-f730-8806c7485d08",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "73e51267-6526-2580-ea31-dc653e63b650",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    }
+  ]
+}

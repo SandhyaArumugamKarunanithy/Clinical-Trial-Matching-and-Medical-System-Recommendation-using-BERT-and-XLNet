@@ -1,0 +1,184 @@
+{
+  "id": "be3c2886-c685-a85b-f8f5-955f6565905c",
+  "name": {
+    "family": "Castillo397",
+    "given": [
+      "Claudia969",
+      "Teresa94"
+    ]
+  },
+  "gender": "female",
+  "birthDate": "1958-01-11",
+  "conditions": [
+    {
+      "id": "a00ed45e-ef49-15f4-1071-71a9985df6c5",
+      "code": "224299000",
+      "display": "Received higher education (finding)"
+    },
+    {
+      "id": "4344683b-366d-f9c8-5dc3-e992e244802a",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "58a2e4d0-d184-7f14-b2fd-fc8a06b5ead4",
+      "code": "266934004",
+      "display": "Transport problem (finding)"
+    },
+    {
+      "id": "e55fec68-1e74-d7ac-9388-05fe92580cba",
+      "code": "713458007",
+      "display": "Lack of access to transportation (finding)"
+    },
+    {
+      "id": "1a2a058d-39b9-60d6-54a8-b4ff6e45e77a",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "8a18206c-b70d-25f8-4f07-60f13a8962f0",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "eb87bb84-7714-b3a4-17d7-8def43ce8a4e",
+      "code": "423315002",
+      "display": "Limited social contact (finding)"
+    },
+    {
+      "id": "0390794b-fe6e-e498-1711-a559814af538",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "id": "4e12da09-c5b1-eb6f-7b19-a3333a2780ba",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "4fd77bd4-14b2-47e4-00da-77252625d982",
+      "code": "15777000",
+      "display": "Prediabetes"
+    },
+    {
+      "id": "d7b20df9-bd7a-0967-e217-50c87faccdca",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "ca3896e0-a617-d419-f0bf-5a0ebfa8979f",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "da9cd425-3804-85a6-a24a-0327850ad479",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "93684508-e1c3-fe74-346e-0ac69955cc37",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "d5981b1b-09e7-6fb0-1b7d-79b619bbf346",
+      "code": "72892002",
+      "display": "Normal pregnancy"
+    },
+    {
+      "id": "ea5aa00f-216f-44cd-951b-b0d7215719b4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "63a1d741-6bd5-5aa5-8134-ce443decb875",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "d69ca535-143b-87b3-f15b-dd422d70f7a4",
+      "code": "88805009",
+      "display": "Chronic congestive heart failure (disorder)"
+    },
+    {
+      "id": "0db70113-a6ca-bc23-72f6-1d988e49b3ca",
+      "code": "403190006",
+      "display": "Epidermal burn of skin (disorder)"
+    },
+    {
+      "id": "3e39c07d-c358-1fd4-0ceb-5b2de1ec2f24",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "c5183198-a3fe-aa1c-fc01-70d69a6f2bf0",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "9a6f9a15-a667-59ef-81b2-f78ddbe95c32",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "ecc94d64-7e6e-3bcf-ef9a-676deba6a294",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "bb1a452e-473d-463a-085f-236056553165",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "cb2d3750-1b05-5ebc-f039-94f1361b2dc4",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "07146d69-c32c-d20e-762e-bb58c1c11b34",
+      "code": "741062008",
+      "display": "Not in labor force (finding)"
+    },
+    {
+      "id": "f8ea098c-fa4a-2946-cd12-058159b3edde",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    },
+    {
+      "id": "ab8ed32e-3a57-6cf9-1f0e-b6c1064c2df7",
+      "code": "444814009",
+      "display": "Viral sinusitis (disorder)"
+    },
+    {
+      "id": "48e9393f-e035-72d7-d128-4c7af4761251",
+      "code": "160903007",
+      "display": "Full-time employment (finding)"
+    },
+    {
+      "id": "b3781998-56af-593a-d606-be7a0f289158",
+      "code": "422650009",
+      "display": "Social isolation (finding)"
+    },
+    {
+      "id": "7f091c9b-8eb7-6a40-7405-3a97f7dd455a",
+      "code": "266948004",
+      "display": "Has a criminal record (finding)"
+    },
+    {
+      "id": "b939e5da-d899-be3f-8d26-db571dc4a589",
+      "code": "706893006",
+      "display": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "id": "2cae43d5-d198-1ba2-366d-07d929c73dcc",
+      "code": "160904001",
+      "display": "Part-time employment (finding)"
+    },
+    {
+      "id": "d22776c2-9edb-e02e-8612-42885ca480cd",
+      "code": "73595000",
+      "display": "Stress (finding)"
+    }
+  ]
+}
